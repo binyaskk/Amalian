@@ -514,6 +514,51 @@ CREATE TABLE IF NOT EXISTS `eum_users` (
 INSERT INTO `eum_users` (`username`, `password`, `email_verification_code`, `forgot_password`, `user_id`, `deleted`, `active`, `user_level`) VALUES
 ('admin', '$2a$08$8TScSp0Zdmllv988ugeLNeGIleAO5Hovs8KAn5rKVxqy6WH55a6mu', '', 0, 1, 0, 0, 1);
 
+
+--
+-- Binyas Table Edites
+--
+
+CREATE TABLE IF NOT EXISTS `eum_roles` (
+  `role_id` int(11) NOT NULL AUTO_INCREMENT,
+  `role_name` varchar(255) NOT NULL,
+  PRIMARY KEY (`role_id`),
+  UNIQUE KEY `role_name` (`role_name`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+ 
+INSERT INTO `eum_roles` (`role_id`, `role_name`) VALUES
+(1,'Admin');
+ 
+ 
+CREATE TABLE IF NOT EXISTS `eum_role_permissions` (
+  `module_id` varchar(255) NOT NULL,
+  `role_id` int(10) NOT NULL,
+  PRIMARY KEY (`module_id`,`role_id`),
+  KEY `role_id` (`role_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+ 
+INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES
+('config', 1),
+('dashboards', 1),
+('profiles', 1),
+('trashes', 1),
+('users', 1),
+('user_reports', 1);
+ 
+ 
+CREATE TABLE IF NOT EXISTS `eum_user_roles` (
+  `role_id` int(10) NOT NULL,
+  `user_id` int(10) NOT NULL,
+  PRIMARY KEY (`role_id`,`user_id`),
+  KEY `user_id` (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+ 
+INSERT INTO `eum_user_roles` (`role_id`, `user_id`) VALUES
+(1, 1);
+
+
+
+
 --
 -- Constraints for dumped tables
 --
