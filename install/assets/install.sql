@@ -443,15 +443,7 @@ INSERT INTO `eum_permissions` (`module_id`, `user_id`) VALUES
 ('profiles', 1),
 ('trashes', 1),
 ('users', 1),
-('user_reports', 1),
-('profiles', 113),
-('profiles', 117),
-('profiles', 119),
-('profiles', 120),
-('profiles', 121),
-('profiles', 122),
-('profiles', 123),
-('profiles', 125);
+('user_reports', 1);
 
 -- --------------------------------------------------------
 
@@ -465,6 +457,7 @@ CREATE TABLE IF NOT EXISTS `eum_userinfo` (
   `profile_image` varchar(260) DEFAULT NULL,
   `register_date` date DEFAULT NULL,
   `dob` date DEFAULT NULL,
+  `gender` varchar(10) DEFAULT NULL,
   `marital_status` varchar(260) DEFAULT NULL,
   `phone_number` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,

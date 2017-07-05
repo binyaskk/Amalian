@@ -265,12 +265,12 @@ class Users extends Secure_area implements iData_controller
 		$this->load->library('bcrypt');
 	    //server side validation
 		$this->form_validation->set_rules('first_name', $this->lang->line('profiles_first_name'), 'required|max_length[250]');
-		$this->form_validation->set_rules('last_name',  $this->lang->line('profiles_last_name'), 'max_length[250]');
+		// $this->form_validation->set_rules('last_name',  $this->lang->line('profiles_last_name'), 'max_length[250]');
 		$this->form_validation->set_rules('phone_number',  $this->lang->line('profiles_phone'), 'max_length[250]');
 		$this->form_validation->set_rules('state',  $this->lang->line('profiles_state'), 'max_length[250]');
 		$this->form_validation->set_rules('city',  $this->lang->line('profiles_city'), 'max_length[250]');
 		$this->form_validation->set_rules('address',  $this->lang->line('profiles_address'), 'max_length[2000]');
-		$this->form_validation->set_rules('comments',  $this->lang->line('profiles_comments'), 'max_length[2000]');
+		// $this->form_validation->set_rules('comments',  $this->lang->line('profiles_comments'), 'max_length[2000]');
 		
 		$usermailcount=0;
 		
@@ -280,7 +280,7 @@ class Users extends Secure_area implements iData_controller
 		    $this->form_validation->set_rules('password', 'Password', 'required|min_length[8]|max_length[250]');
 		}
 		if ($this->form_validation->run() == FALSE) {
-		    $error_message="<ul><li>".form_error('first_name')."</li><li>".form_error('last_name')."</li><li>".form_error('phone_number')."</li><li>".form_error('state')."</li><li>".form_error('city')."</li><li>".form_error('address')."</li><li>".form_error('comments')."</li><li>".form_error('username')."</li><li>".form_error('password')."</li><li>".form_error('email')."</li></ul>";
+		    $error_message="<ul><li>".form_error('first_name')."</li><li>".form_error('phone_number')."</li><li>".form_error('state')."</li><li>".form_error('city')."</li><li>".form_error('address')."</li><li>".form_error('username')."</li><li>".form_error('password')."</li><li>".form_error('email')."</li></ul>";
 		    echo json_encode(array('success'=>false,'message'=>$error_message));
         }	
 		
@@ -297,7 +297,7 @@ class Users extends Secure_area implements iData_controller
 	  
 	        $userinfo_data = array(
 		    'first_name'=>$this->input->post('first_name'),
-		    'last_name'=>$this->input->post('last_name'),
+		    // 'last_name'=>$this->input->post('last_name'),
 		    'phone_number'=>$this->input->post('phone_number'),
 		    'city'=>$this->input->post('city'),
 		    'state'=>$this->input->post('state'),
@@ -306,7 +306,8 @@ class Users extends Secure_area implements iData_controller
 		    'country_code'=>$this->input->post('country'),
 		    'country_name'=>$this->input->post('country_name'),
 		    'marital_status'=>$this->input->post('marital_status'),
-		    'comments'=>$this->input->post('comments'),
+		    'gender'=>$this->input->post('gender'),
+		    // 'comments'=>$this->input->post('comments'),
 		    'address'=>$this->input->post('address')
 		    );
 			if($user_id==-1){

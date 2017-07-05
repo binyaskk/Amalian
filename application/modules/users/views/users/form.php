@@ -67,7 +67,6 @@ echo $upload_path."/".$default_image_name;?>?<?php echo time(); //to prevent bro
       ?>
 </fieldset>
 
-
 <?php 
    echo form_close();
    ?>
