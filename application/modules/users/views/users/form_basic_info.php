@@ -13,7 +13,7 @@
          );?>
    </div>
 </div>
-<div class="field_row clearfix">
+<!-- <div class="field_row clearfix">
    <?php echo form_label($this->lang->line('profiles_last_name').':', 'last_name',array('class'=>'')); ?>
    <div class='form_field'>
       <?php echo form_input(array(
@@ -22,7 +22,7 @@
          'value'=>$user_info->last_name)
          );?>
    </div>
-</div>
+</div> -->
 <div class="field_row clearfix">
    <?php echo form_label($this->lang->line('profiles_phone').':', 'phone_number'); ?>
    <div class='form_field'>
@@ -48,7 +48,7 @@
                         echo form_dropdown('country',$country_data, $user_info->country_code, $attr);
                                  ?>
     
-      <input type="hidden" name="country_name" value="<?php echo $user_info->country_code; ?>" id="country_name" /> <!-- to get country name --->
+      <input type="hidden" name="country_name" value="<?php echo $user_info->country_code; ?>" id="country_name" /> <!-- to get country name -->
    </div>
 </div>
 <div class="field_row clearfix">
@@ -163,6 +163,48 @@
          ;?>
    </div>
 </div>
+<div class="field_row clearfix radio_option">
+   <br>
+   <?php echo form_label($this->lang->line('profiles_gender').':', 'gender'); ?>
+   <div class='inlin_row form_field1'  >
+      <?php
+         $gender=$user_info->gender;
+              if($gender=="Male")
+           {
+         $data = array(
+           'name'        => 'gender',
+           'value'       => 'Male',
+           'id'=>'option3',
+         'checked'     => TRUE,
+           );
+         
+         $data2 = array(
+           'name'        => 'gender',
+           'value'       => 'Female',
+         'id'=>'option4',
+           );
+         }
+         else
+         {
+         $data = array(
+           'name'        => 'gender',
+           'value'       => 'Male',
+         'id'=>'option3',
+           );
+         
+         $data2 = array(
+           'name'        => 'gender',
+           'value'       => 'Female',
+         'id'=>'option4',
+         'checked'     => TRUE,
+           );
+         }
+         
+         echo "".form_radio($data)."<label for='option3' class='profile_status'>".$this->lang->line('profiles_male')."</label> ";;
+         echo "".form_radio($data2)."<label for='option4' class='profile_status'>".$this->lang->line('profiles_female')."</label> ";;
+         ;?>
+   </div>
+</div>
 <div class="field_row clearfix">
    <?php echo form_label($this->lang->line('profiles_date_of_registration').':', 'date_of_joining');
       $js = 'id="rmonth" class="date_dropdown"';
@@ -199,7 +241,7 @@
          );?>
    </div>
 </div>
-<div class="field_row clearfix">
+<!-- <div class="field_row clearfix">
    <?php echo form_label($this->lang->line('profiles_comments').':', 'comments'); ?>
    <div class='form_field'>
       <?php echo form_textarea(array(
@@ -210,4 +252,4 @@
          'cols'=>'24')		
          );?>
    </div>
-</div>
+</div> -->

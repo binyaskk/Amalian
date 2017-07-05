@@ -56,6 +56,7 @@
       </div>
    </div>
 </fieldset>
+
 <fieldset id="employee_permission_info">
    <legend><?php echo $this->lang->line("profiles_permission_info"); ?></legend>
    <p><?php echo $this->lang->line("profiles_permission_desc"); ?></p>

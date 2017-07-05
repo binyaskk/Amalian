@@ -1,0 +1,3 @@
+/* Database changes*/
+
+1. Added new column 'gender' to eum_userinfo table (updated in istall.sql).

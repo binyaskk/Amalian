@@ -1,2 +1,5 @@
 application/cache/*
 Doc/*
+.DS_Store
+thumb.db
+application/config/database.php

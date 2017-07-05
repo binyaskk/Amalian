@@ -1,8 +1,9 @@
 <?php
 $lang['profiles_new']='New User';
 $lang['profiles_my_profile']='My profile';
-$lang['profiles_first_name']='First Name';
+$lang['profiles_first_name']='Name';
 $lang['profiles_last_name']='Last Name';
+$lang['profiles_gender']='Gender';
 $lang['profiles_phone']='Phone';
 $lang['profiles_email']='Email';
 $lang['profiles_country']='Country';
@@ -12,6 +13,8 @@ $lang['profiles_comments']='Comments';
 $lang['profiles_marital_status']='Marital Status';
 $lang['profiles_single']='Single';
 $lang['profiles_married']='Married';
+$lang['profiles_male']='Male';
+$lang['profiles_female']='Female';
 $lang['profiles_Info']='My Profile';
 $lang['profiles_user_level']='User Level';
 $lang['profiles_user_level_admin']='Admin';

@@ -137,7 +137,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                          }
 				
                         echo form_dropdown('country_code',$country_data, "US", $attr); ?>
-                     <input type="hidden" name="country_name" value="US" id="country_name" /> <!-- to get country name --->
+                     <input type="hidden" name="country_name" value="US" id="country_name" /> <!-- to get country name -->
                   </div>
                </div>
                <hr>
@@ -160,8 +160,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  <input type="checkbox" name="permissions[]" value="profiles" checked="checked" class="hidden"  id="profiles">
  
   </div>
-
-
 
             <!-- /.box-body -->
             <div class="box-footer">
