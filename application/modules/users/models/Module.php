@@ -48,8 +48,9 @@ class Module extends CI_Model
 	{
 	
 		$this->db->from('modules');
-		$this->db->join('permissions','permissions.module_id=modules.module_id');
-		$this->db->where("permissions.user_id",$user_id);
+		$this->db->join('role_permissions','role_permissions.module_id=modules.module_id');
+        $this->db->join('user_roles','user_roles.role_id=role_permissions.role_id');
+		$this->db->where("user_roles.user_id",$user_id);
 		$this->db->order_by("sort", "asc");
 		return $this->db->get();	
 
@@ -59,9 +60,10 @@ class Module extends CI_Model
 	{
         $this->db->select('DISTINCT(eum_main_modules.main_module_id),eum_main_modules.name_lang_key,main_modules.sort'); 
         $this->db->from('modules');
-		$this->db->join('permissions','permissions.module_id=modules.module_id');		
+		$this->db->join('role_permissions','role_permissions.module_id=modules.module_id');		
 		$this->db->join('main_modules','main_modules.main_module_id=modules.main_module_id');
-		$this->db->where("permissions.user_id",$user_id);
+        $this->db->join('user_roles','user_roles.role_id=role_permissions.role_id');
+		$this->db->where("user_roles.user_id",$user_id);
 		$this->db->order_by("main_modules.sort", "asc");
 		return $this->db->get();
 
@@ -72,11 +74,11 @@ class Module extends CI_Model
 		
 	    $user_id=$this->User->get_logged_in_user_info()->user_id;
 		$this->db->from('modules');
-		$this->db->join('permissions','permissions.module_id=modules.module_id');
+		$this->db->join('role_permissions','role_permissions.module_id=modules.module_id');
+        $this->db->join('user_roles','user_roles.role_id=role_permissions.role_id');
 		$this->db->where("modules.main_module_id",$main_module_id);
-		$this->db->where("permissions.user_id",$user_id);
+		$this->db->where("user_roles.user_id",$user_id);
 		$this->db->order_by("modules.sort", "asc");
 		return $this->db->get();		
 	}
 }
-

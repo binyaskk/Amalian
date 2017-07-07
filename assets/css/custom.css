@@ -70,6 +70,7 @@ select:disabled {
 	padding-left:10px;
 }
 
+
  input[type="text"]#search 
 {
 	    background-color: #0a6184;
@@ -1270,3 +1271,20 @@ ul.tsc_paginationA01 li.current a {
 	
 	 
 }
+
+
+
+
+#role_basic_info
+{
+   /*border-right: 1px solid #E0E0E0;*/
+	float:left;
+	width:47%;
+	padding:5px;   
+}
+#role_permission_info
+{
+	border-left:1px solid #e0e0e0;
+	padding-left:10px;
+}
+
