@@ -38,7 +38,7 @@
             }
         }
 
-        function post_person_form_submit(response) {
+        function post_role_form_submit(response) {
 
             if (!response.success) {
                 //Error on saving

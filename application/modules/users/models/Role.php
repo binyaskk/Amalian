@@ -107,19 +107,26 @@ class Role  extends CI_Model
 	public function save(&$role_data, &$rolelog_data,&$permission_data,$role_id=false)
 	{
 		$success=false;
+        log_message('debug', implode("|",$role_data));
 		//Run these queries as a transaction, we want to make sure we do all or nothing
 		$this->db->trans_start();	
-		if (parent::save($role_data,$rolelog_data,$permission_data,$role_id))
-		{
+		
 			if (!empty($role_data)) {
-				
+				log_message('debug', $role_id);
 				if (!$role_id or !$this->exists($role_id)) {
-				$rolelog_data['role_id'] = $role_id = $role_data['role_id'];
-				$success = $this->db->insert('roles',$role_data);
+                    
+                    if ($this->db->insert('roles',$role_data)) {
+                        $role_data['role_id']=$this->db->insert_id();
+                        $rolelog_data['role_id'] = $role_id = $role_data['role_id'];
+                        $success= true;
+                     }else{
+                        $success= false;
+                    }
 			    }
 			    else {
 				$this->db->where('role_id', $role_id);
-				$success = $this->db->update('roles',$role_data);		
+				$success = $this->db->update('roles',$role_data);	
+                    
 			    }
 				
 				
@@ -145,7 +152,7 @@ class Role  extends CI_Model
 				}
 			}
 			
-		}
+		
 		$this->db->trans_complete();		
 		return $success;
 	}

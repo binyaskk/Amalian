@@ -112,7 +112,7 @@ class Roles extends Secure_area implements iData_controller
 		    
 		
 		    $role=$this->input->post('role_name');
-		    $rolecount=$this->role->check_rolename($role,$role_id);
+		    $rolecount=$this->Role->check_rolename($role,$role_id);
 			
 			if ($role_id==-1 && $rolecount!=0) {
 		        echo json_encode(array('success'=>false,'message'=>$this->lang->line('roles_rolename_exist')));

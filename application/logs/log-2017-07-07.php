@@ -8682,3 +8682,5572 @@ DEBUG - 2017-07-07 14:39:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\app
 DEBUG - 2017-07-07 14:39:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
 INFO - 2017-07-07 14:39:28 --> Final output sent to browser
 DEBUG - 2017-07-07 14:39:28 --> Total execution time: 0.2782
+INFO - 2017-07-07 14:44:14 --> Config Class Initialized
+INFO - 2017-07-07 14:44:14 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:14 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:14 --> URI Class Initialized
+INFO - 2017-07-07 14:44:14 --> Router Class Initialized
+INFO - 2017-07-07 14:44:14 --> Output Class Initialized
+INFO - 2017-07-07 14:44:14 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:14 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:14 --> CSRF token verified
+INFO - 2017-07-07 14:44:14 --> Input Class Initialized
+INFO - 2017-07-07 14:44:14 --> Language Class Initialized
+INFO - 2017-07-07 14:44:14 --> Language Class Initialized
+INFO - 2017-07-07 14:44:14 --> Config Class Initialized
+INFO - 2017-07-07 14:44:14 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:14 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:14 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:14 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:14 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:14 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:14 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:14 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:14 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:14 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:14 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:14 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:14 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:15 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:15 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:15 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:15 --> Model Class Initialized
+INFO - 2017-07-07 14:44:15 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:15 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:15 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:44:15 --> Severity: error --> Exception: Call to a member function check_rolename() on null C:\xampp\htdocs\amalian\Amalian\application\modules\users\controllers\Roles.php 115
+INFO - 2017-07-07 14:44:20 --> Config Class Initialized
+INFO - 2017-07-07 14:44:20 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:20 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:20 --> URI Class Initialized
+INFO - 2017-07-07 14:44:20 --> Router Class Initialized
+INFO - 2017-07-07 14:44:20 --> Output Class Initialized
+INFO - 2017-07-07 14:44:20 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:20 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:20 --> CSRF token verified
+INFO - 2017-07-07 14:44:20 --> Input Class Initialized
+INFO - 2017-07-07 14:44:20 --> Language Class Initialized
+INFO - 2017-07-07 14:44:20 --> Language Class Initialized
+INFO - 2017-07-07 14:44:20 --> Config Class Initialized
+INFO - 2017-07-07 14:44:20 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:20 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:20 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:20 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:20 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:20 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:20 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:20 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:20 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:20 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:20 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:20 --> Model Class Initialized
+INFO - 2017-07-07 14:44:20 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:20 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:20 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:44:20 --> Severity: error --> Exception: Call to a member function check_rolename() on null C:\xampp\htdocs\amalian\Amalian\application\modules\users\controllers\Roles.php 115
+INFO - 2017-07-07 14:44:27 --> Config Class Initialized
+INFO - 2017-07-07 14:44:27 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:27 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:27 --> URI Class Initialized
+INFO - 2017-07-07 14:44:27 --> Router Class Initialized
+INFO - 2017-07-07 14:44:27 --> Output Class Initialized
+INFO - 2017-07-07 14:44:27 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:27 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:27 --> CSRF token verified
+INFO - 2017-07-07 14:44:27 --> Input Class Initialized
+INFO - 2017-07-07 14:44:27 --> Language Class Initialized
+INFO - 2017-07-07 14:44:27 --> Language Class Initialized
+INFO - 2017-07-07 14:44:27 --> Config Class Initialized
+INFO - 2017-07-07 14:44:27 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:27 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:27 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:27 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:27 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:27 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:27 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:27 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:27 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:27 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:27 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:27 --> Model Class Initialized
+INFO - 2017-07-07 14:44:27 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:27 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:27 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:44:27 --> Severity: error --> Exception: Call to a member function check_rolename() on null C:\xampp\htdocs\amalian\Amalian\application\modules\users\controllers\Roles.php 115
+INFO - 2017-07-07 14:44:35 --> Config Class Initialized
+INFO - 2017-07-07 14:44:35 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:35 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:35 --> URI Class Initialized
+INFO - 2017-07-07 14:44:35 --> Router Class Initialized
+INFO - 2017-07-07 14:44:35 --> Output Class Initialized
+INFO - 2017-07-07 14:44:35 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:35 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:35 --> Input Class Initialized
+INFO - 2017-07-07 14:44:35 --> Language Class Initialized
+INFO - 2017-07-07 14:44:35 --> Language Class Initialized
+INFO - 2017-07-07 14:44:35 --> Config Class Initialized
+INFO - 2017-07-07 14:44:35 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:35 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:35 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:35 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:35 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:35 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:35 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:35 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:35 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:35 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:35 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:35 --> Model Class Initialized
+INFO - 2017-07-07 14:44:35 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:35 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:35 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:44:35 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 14:44:35 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 14:44:35 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 14:44:35 --> Final output sent to browser
+DEBUG - 2017-07-07 14:44:35 --> Total execution time: 0.1684
+INFO - 2017-07-07 14:44:36 --> Config Class Initialized
+INFO - 2017-07-07 14:44:36 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:36 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:36 --> URI Class Initialized
+INFO - 2017-07-07 14:44:36 --> Router Class Initialized
+INFO - 2017-07-07 14:44:36 --> Output Class Initialized
+INFO - 2017-07-07 14:44:36 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:36 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:36 --> Input Class Initialized
+INFO - 2017-07-07 14:44:36 --> Language Class Initialized
+INFO - 2017-07-07 14:44:36 --> Language Class Initialized
+INFO - 2017-07-07 14:44:36 --> Config Class Initialized
+INFO - 2017-07-07 14:44:36 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:36 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:36 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:36 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:36 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:36 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:36 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:36 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:36 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:36 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:36 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:36 --> Model Class Initialized
+INFO - 2017-07-07 14:44:36 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:36 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:36 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:44:36 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:44:36 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:44:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:44:36 --> Final output sent to browser
+DEBUG - 2017-07-07 14:44:36 --> Total execution time: 0.2308
+INFO - 2017-07-07 14:44:37 --> Config Class Initialized
+INFO - 2017-07-07 14:44:37 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:37 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:37 --> URI Class Initialized
+INFO - 2017-07-07 14:44:37 --> Router Class Initialized
+INFO - 2017-07-07 14:44:37 --> Output Class Initialized
+INFO - 2017-07-07 14:44:37 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:37 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:37 --> Input Class Initialized
+INFO - 2017-07-07 14:44:37 --> Language Class Initialized
+INFO - 2017-07-07 14:44:37 --> Language Class Initialized
+INFO - 2017-07-07 14:44:37 --> Config Class Initialized
+INFO - 2017-07-07 14:44:37 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:37 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:37 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:37 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:37 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:37 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:37 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:37 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:37 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:37 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:37 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:37 --> Model Class Initialized
+INFO - 2017-07-07 14:44:37 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:37 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:37 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 14:44:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 14:44:37 --> Final output sent to browser
+DEBUG - 2017-07-07 14:44:37 --> Total execution time: 0.1788
+INFO - 2017-07-07 14:44:47 --> Config Class Initialized
+INFO - 2017-07-07 14:44:47 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:44:47 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:44:47 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:44:47 --> URI Class Initialized
+INFO - 2017-07-07 14:44:47 --> Router Class Initialized
+INFO - 2017-07-07 14:44:47 --> Output Class Initialized
+INFO - 2017-07-07 14:44:47 --> Security Class Initialized
+DEBUG - 2017-07-07 14:44:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:44:47 --> CSRF cookie sent
+INFO - 2017-07-07 14:44:47 --> CSRF token verified
+INFO - 2017-07-07 14:44:47 --> Input Class Initialized
+INFO - 2017-07-07 14:44:47 --> Language Class Initialized
+INFO - 2017-07-07 14:44:47 --> Language Class Initialized
+INFO - 2017-07-07 14:44:47 --> Config Class Initialized
+INFO - 2017-07-07 14:44:47 --> Loader Class Initialized
+INFO - 2017-07-07 14:44:47 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:44:47 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:44:47 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:44:47 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:44:47 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:44:47 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:47 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:48 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:44:48 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:44:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:44:48 --> User Agent Class Initialized
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:48 --> Pagination Class Initialized
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:44:48 --> Model Class Initialized
+INFO - 2017-07-07 14:44:48 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:44:48 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:44:48 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:44:48 --> Severity: error --> Exception: Call to a member function check_rolename() on null C:\xampp\htdocs\amalian\Amalian\application\modules\users\controllers\Roles.php 115
+INFO - 2017-07-07 14:46:33 --> Config Class Initialized
+INFO - 2017-07-07 14:46:33 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:46:33 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:46:33 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:46:33 --> URI Class Initialized
+INFO - 2017-07-07 14:46:33 --> Router Class Initialized
+INFO - 2017-07-07 14:46:33 --> Output Class Initialized
+INFO - 2017-07-07 14:46:33 --> Security Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:46:34 --> CSRF cookie sent
+INFO - 2017-07-07 14:46:34 --> Input Class Initialized
+INFO - 2017-07-07 14:46:34 --> Language Class Initialized
+INFO - 2017-07-07 14:46:34 --> Language Class Initialized
+INFO - 2017-07-07 14:46:34 --> Config Class Initialized
+INFO - 2017-07-07 14:46:34 --> Loader Class Initialized
+INFO - 2017-07-07 14:46:34 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:46:34 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:46:34 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:46:34 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:46:34 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:46:34 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:34 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:46:34 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:46:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:46:34 --> User Agent Class Initialized
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:46:34 --> Pagination Class Initialized
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:46:34 --> Model Class Initialized
+INFO - 2017-07-07 14:46:34 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:46:34 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:34 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:46:34 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 14:46:34 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 14:46:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 14:46:34 --> Final output sent to browser
+DEBUG - 2017-07-07 14:46:34 --> Total execution time: 0.2466
+INFO - 2017-07-07 14:46:35 --> Config Class Initialized
+INFO - 2017-07-07 14:46:35 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:46:35 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:46:35 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:46:35 --> URI Class Initialized
+INFO - 2017-07-07 14:46:35 --> Router Class Initialized
+INFO - 2017-07-07 14:46:35 --> Output Class Initialized
+INFO - 2017-07-07 14:46:35 --> Security Class Initialized
+DEBUG - 2017-07-07 14:46:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:46:35 --> CSRF cookie sent
+INFO - 2017-07-07 14:46:35 --> Input Class Initialized
+INFO - 2017-07-07 14:46:35 --> Language Class Initialized
+INFO - 2017-07-07 14:46:35 --> Language Class Initialized
+INFO - 2017-07-07 14:46:35 --> Config Class Initialized
+INFO - 2017-07-07 14:46:35 --> Loader Class Initialized
+INFO - 2017-07-07 14:46:35 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:46:35 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:46:35 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:46:35 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:46:35 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:46:35 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:35 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:36 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:46:36 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:46:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:46:36 --> User Agent Class Initialized
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:46:36 --> Pagination Class Initialized
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:46:36 --> Model Class Initialized
+INFO - 2017-07-07 14:46:36 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:36 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:46:36 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:46:36 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:46:36 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:46:36 --> Final output sent to browser
+DEBUG - 2017-07-07 14:46:36 --> Total execution time: 0.5407
+INFO - 2017-07-07 14:46:36 --> Config Class Initialized
+INFO - 2017-07-07 14:46:36 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:46:36 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:46:36 --> URI Class Initialized
+INFO - 2017-07-07 14:46:36 --> Router Class Initialized
+INFO - 2017-07-07 14:46:36 --> Output Class Initialized
+INFO - 2017-07-07 14:46:36 --> Security Class Initialized
+DEBUG - 2017-07-07 14:46:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:46:36 --> CSRF cookie sent
+INFO - 2017-07-07 14:46:36 --> Input Class Initialized
+INFO - 2017-07-07 14:46:36 --> Language Class Initialized
+INFO - 2017-07-07 14:46:37 --> Language Class Initialized
+INFO - 2017-07-07 14:46:37 --> Config Class Initialized
+INFO - 2017-07-07 14:46:37 --> Loader Class Initialized
+INFO - 2017-07-07 14:46:37 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:46:37 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:46:37 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:46:37 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:46:37 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:46:37 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:37 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:46:37 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:46:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:46:37 --> User Agent Class Initialized
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:46:37 --> Pagination Class Initialized
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:46:37 --> Model Class Initialized
+INFO - 2017-07-07 14:46:37 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:46:37 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:37 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 14:46:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 14:46:37 --> Final output sent to browser
+DEBUG - 2017-07-07 14:46:37 --> Total execution time: 0.3981
+INFO - 2017-07-07 14:46:42 --> Config Class Initialized
+INFO - 2017-07-07 14:46:42 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:46:42 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:46:42 --> URI Class Initialized
+INFO - 2017-07-07 14:46:42 --> Router Class Initialized
+INFO - 2017-07-07 14:46:42 --> Output Class Initialized
+INFO - 2017-07-07 14:46:42 --> Security Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:46:42 --> CSRF cookie sent
+INFO - 2017-07-07 14:46:42 --> CSRF token verified
+INFO - 2017-07-07 14:46:42 --> Input Class Initialized
+INFO - 2017-07-07 14:46:42 --> Language Class Initialized
+INFO - 2017-07-07 14:46:42 --> Language Class Initialized
+INFO - 2017-07-07 14:46:42 --> Config Class Initialized
+INFO - 2017-07-07 14:46:42 --> Loader Class Initialized
+INFO - 2017-07-07 14:46:42 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:46:42 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:46:42 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:46:42 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:46:42 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:46:42 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:42 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:46:42 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:46:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:46:42 --> User Agent Class Initialized
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:46:42 --> Pagination Class Initialized
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:46:42 --> Model Class Initialized
+INFO - 2017-07-07 14:46:42 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:46:42 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:46:42 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:46:42 --> Severity: error --> Exception: Call to undefined method CI_Model::save() C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 112
+INFO - 2017-07-07 14:49:08 --> Config Class Initialized
+INFO - 2017-07-07 14:49:08 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:49:08 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:49:08 --> URI Class Initialized
+INFO - 2017-07-07 14:49:08 --> Router Class Initialized
+INFO - 2017-07-07 14:49:08 --> Output Class Initialized
+INFO - 2017-07-07 14:49:08 --> Security Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:49:08 --> CSRF cookie sent
+INFO - 2017-07-07 14:49:08 --> Input Class Initialized
+INFO - 2017-07-07 14:49:08 --> Language Class Initialized
+INFO - 2017-07-07 14:49:08 --> Language Class Initialized
+INFO - 2017-07-07 14:49:08 --> Config Class Initialized
+INFO - 2017-07-07 14:49:08 --> Loader Class Initialized
+INFO - 2017-07-07 14:49:08 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:49:08 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:49:08 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:49:08 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:49:08 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:49:08 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:08 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:49:08 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:49:08 --> User Agent Class Initialized
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:08 --> Pagination Class Initialized
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:49:08 --> Model Class Initialized
+INFO - 2017-07-07 14:49:08 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:49:08 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:08 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:49:08 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 14:49:08 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 14:49:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 14:49:08 --> Final output sent to browser
+DEBUG - 2017-07-07 14:49:08 --> Total execution time: 0.2083
+INFO - 2017-07-07 14:49:10 --> Config Class Initialized
+INFO - 2017-07-07 14:49:10 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:49:10 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:49:10 --> URI Class Initialized
+INFO - 2017-07-07 14:49:10 --> Router Class Initialized
+INFO - 2017-07-07 14:49:10 --> Output Class Initialized
+INFO - 2017-07-07 14:49:10 --> Security Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:49:10 --> CSRF cookie sent
+INFO - 2017-07-07 14:49:10 --> Input Class Initialized
+INFO - 2017-07-07 14:49:10 --> Language Class Initialized
+INFO - 2017-07-07 14:49:10 --> Language Class Initialized
+INFO - 2017-07-07 14:49:10 --> Config Class Initialized
+INFO - 2017-07-07 14:49:10 --> Loader Class Initialized
+INFO - 2017-07-07 14:49:10 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:49:10 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:49:10 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:49:10 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:49:10 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:49:10 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:10 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:49:10 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:49:10 --> User Agent Class Initialized
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:10 --> Pagination Class Initialized
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:49:10 --> Model Class Initialized
+INFO - 2017-07-07 14:49:10 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:49:10 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:10 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:49:10 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:49:10 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:49:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:49:10 --> Final output sent to browser
+DEBUG - 2017-07-07 14:49:10 --> Total execution time: 0.3372
+INFO - 2017-07-07 14:49:11 --> Config Class Initialized
+INFO - 2017-07-07 14:49:11 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:49:11 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:49:11 --> URI Class Initialized
+INFO - 2017-07-07 14:49:11 --> Router Class Initialized
+INFO - 2017-07-07 14:49:11 --> Output Class Initialized
+INFO - 2017-07-07 14:49:11 --> Security Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:49:11 --> CSRF cookie sent
+INFO - 2017-07-07 14:49:11 --> Input Class Initialized
+INFO - 2017-07-07 14:49:11 --> Language Class Initialized
+INFO - 2017-07-07 14:49:11 --> Language Class Initialized
+INFO - 2017-07-07 14:49:11 --> Config Class Initialized
+INFO - 2017-07-07 14:49:11 --> Loader Class Initialized
+INFO - 2017-07-07 14:49:11 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:49:11 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:49:11 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:49:11 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:49:11 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:49:11 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:11 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:49:11 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:49:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:49:11 --> User Agent Class Initialized
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:11 --> Pagination Class Initialized
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:49:11 --> Model Class Initialized
+INFO - 2017-07-07 14:49:11 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:49:11 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:11 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 14:49:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 14:49:11 --> Final output sent to browser
+DEBUG - 2017-07-07 14:49:11 --> Total execution time: 0.3204
+INFO - 2017-07-07 14:49:17 --> Config Class Initialized
+INFO - 2017-07-07 14:49:17 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:49:17 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:49:17 --> URI Class Initialized
+INFO - 2017-07-07 14:49:17 --> Router Class Initialized
+INFO - 2017-07-07 14:49:17 --> Output Class Initialized
+INFO - 2017-07-07 14:49:17 --> Security Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:49:17 --> CSRF cookie sent
+INFO - 2017-07-07 14:49:17 --> CSRF token verified
+INFO - 2017-07-07 14:49:17 --> Input Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language Class Initialized
+INFO - 2017-07-07 14:49:17 --> Config Class Initialized
+INFO - 2017-07-07 14:49:17 --> Loader Class Initialized
+INFO - 2017-07-07 14:49:17 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:17 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:49:17 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:49:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:49:17 --> User Agent Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:17 --> Pagination Class Initialized
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+INFO - 2017-07-07 14:49:17 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 14:49:17 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 14:49:17 --> DB Transaction Failure
+INFO - 2017-07-07 14:49:17 --> Final output sent to browser
+DEBUG - 2017-07-07 14:49:17 --> Total execution time: 0.2803
+INFO - 2017-07-07 14:49:17 --> Config Class Initialized
+INFO - 2017-07-07 14:49:17 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:49:17 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:49:17 --> URI Class Initialized
+INFO - 2017-07-07 14:49:17 --> Router Class Initialized
+INFO - 2017-07-07 14:49:17 --> Output Class Initialized
+INFO - 2017-07-07 14:49:17 --> Security Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:49:17 --> CSRF cookie sent
+INFO - 2017-07-07 14:49:17 --> Input Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language Class Initialized
+INFO - 2017-07-07 14:49:17 --> Config Class Initialized
+INFO - 2017-07-07 14:49:17 --> Loader Class Initialized
+INFO - 2017-07-07 14:49:17 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:49:17 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:17 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:49:17 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:49:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:49:17 --> User Agent Class Initialized
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:49:17 --> Pagination Class Initialized
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:49:17 --> Model Class Initialized
+INFO - 2017-07-07 14:49:17 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:49:17 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:49:17 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:49:17 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:49:17 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:49:17 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:49:17 --> Final output sent to browser
+DEBUG - 2017-07-07 14:49:17 --> Total execution time: 0.2265
+INFO - 2017-07-07 14:51:51 --> Config Class Initialized
+INFO - 2017-07-07 14:51:51 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:51:51 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:51:51 --> URI Class Initialized
+INFO - 2017-07-07 14:51:51 --> Router Class Initialized
+INFO - 2017-07-07 14:51:51 --> Output Class Initialized
+INFO - 2017-07-07 14:51:51 --> Security Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:51:51 --> CSRF cookie sent
+INFO - 2017-07-07 14:51:51 --> Input Class Initialized
+INFO - 2017-07-07 14:51:51 --> Language Class Initialized
+INFO - 2017-07-07 14:51:51 --> Language Class Initialized
+INFO - 2017-07-07 14:51:51 --> Config Class Initialized
+INFO - 2017-07-07 14:51:51 --> Loader Class Initialized
+INFO - 2017-07-07 14:51:51 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:51:51 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:51:51 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:51:51 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:51:51 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:51:51 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:51 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:51:51 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:51:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:51:51 --> User Agent Class Initialized
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:51:51 --> Pagination Class Initialized
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:51:51 --> Model Class Initialized
+INFO - 2017-07-07 14:51:51 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:51:51 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:51 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:51:51 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:51:51 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 14:51:52 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 14:51:52 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 14:51:52 --> Final output sent to browser
+DEBUG - 2017-07-07 14:51:52 --> Total execution time: 0.2048
+INFO - 2017-07-07 14:51:53 --> Config Class Initialized
+INFO - 2017-07-07 14:51:53 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:51:53 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:51:53 --> URI Class Initialized
+INFO - 2017-07-07 14:51:53 --> Router Class Initialized
+INFO - 2017-07-07 14:51:53 --> Output Class Initialized
+INFO - 2017-07-07 14:51:53 --> Security Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:51:53 --> CSRF cookie sent
+INFO - 2017-07-07 14:51:53 --> Input Class Initialized
+INFO - 2017-07-07 14:51:53 --> Language Class Initialized
+INFO - 2017-07-07 14:51:53 --> Language Class Initialized
+INFO - 2017-07-07 14:51:53 --> Config Class Initialized
+INFO - 2017-07-07 14:51:53 --> Loader Class Initialized
+INFO - 2017-07-07 14:51:53 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:51:53 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:51:53 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:51:53 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:51:53 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:51:53 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:53 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:51:53 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:51:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:51:53 --> User Agent Class Initialized
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:51:53 --> Pagination Class Initialized
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:51:53 --> Model Class Initialized
+INFO - 2017-07-07 14:51:53 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:51:53 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:53 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:51:53 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:51:53 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:51:53 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:51:53 --> Final output sent to browser
+DEBUG - 2017-07-07 14:51:53 --> Total execution time: 0.2846
+INFO - 2017-07-07 14:51:54 --> Config Class Initialized
+INFO - 2017-07-07 14:51:54 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:51:54 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:51:54 --> URI Class Initialized
+INFO - 2017-07-07 14:51:54 --> Router Class Initialized
+INFO - 2017-07-07 14:51:54 --> Output Class Initialized
+INFO - 2017-07-07 14:51:54 --> Security Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:51:54 --> CSRF cookie sent
+INFO - 2017-07-07 14:51:54 --> Input Class Initialized
+INFO - 2017-07-07 14:51:54 --> Language Class Initialized
+INFO - 2017-07-07 14:51:54 --> Language Class Initialized
+INFO - 2017-07-07 14:51:54 --> Config Class Initialized
+INFO - 2017-07-07 14:51:54 --> Loader Class Initialized
+INFO - 2017-07-07 14:51:54 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:51:54 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:51:54 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:51:54 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:51:54 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:51:54 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:54 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:51:54 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:51:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:51:54 --> User Agent Class Initialized
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:51:54 --> Pagination Class Initialized
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:51:54 --> Model Class Initialized
+INFO - 2017-07-07 14:51:54 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:51:54 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:51:54 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 14:51:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 14:51:54 --> Final output sent to browser
+DEBUG - 2017-07-07 14:51:54 --> Total execution time: 0.3155
+INFO - 2017-07-07 14:52:00 --> Config Class Initialized
+INFO - 2017-07-07 14:52:00 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:52:00 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:52:00 --> URI Class Initialized
+INFO - 2017-07-07 14:52:00 --> Router Class Initialized
+INFO - 2017-07-07 14:52:00 --> Output Class Initialized
+INFO - 2017-07-07 14:52:00 --> Security Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:52:00 --> CSRF cookie sent
+INFO - 2017-07-07 14:52:00 --> CSRF token verified
+INFO - 2017-07-07 14:52:00 --> Input Class Initialized
+INFO - 2017-07-07 14:52:00 --> Language Class Initialized
+INFO - 2017-07-07 14:52:00 --> Language Class Initialized
+INFO - 2017-07-07 14:52:00 --> Config Class Initialized
+INFO - 2017-07-07 14:52:00 --> Loader Class Initialized
+INFO - 2017-07-07 14:52:00 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:52:00 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:52:00 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:52:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:52:00 --> User Agent Class Initialized
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:52:00 --> Pagination Class Initialized
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:52:00 --> Model Class Initialized
+INFO - 2017-07-07 14:52:00 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 14:52:00 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 14:52:00 --> DB Transaction Failure
+INFO - 2017-07-07 14:52:00 --> Final output sent to browser
+DEBUG - 2017-07-07 14:52:00 --> Total execution time: 0.2327
+INFO - 2017-07-07 14:52:00 --> Config Class Initialized
+INFO - 2017-07-07 14:52:00 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:52:00 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:52:00 --> URI Class Initialized
+INFO - 2017-07-07 14:52:00 --> Router Class Initialized
+INFO - 2017-07-07 14:52:00 --> Output Class Initialized
+INFO - 2017-07-07 14:52:00 --> Security Class Initialized
+DEBUG - 2017-07-07 14:52:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:52:00 --> CSRF cookie sent
+INFO - 2017-07-07 14:52:00 --> Input Class Initialized
+INFO - 2017-07-07 14:52:00 --> Language Class Initialized
+INFO - 2017-07-07 14:52:00 --> Language Class Initialized
+INFO - 2017-07-07 14:52:00 --> Config Class Initialized
+INFO - 2017-07-07 14:52:00 --> Loader Class Initialized
+INFO - 2017-07-07 14:52:00 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:52:00 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:52:00 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:52:00 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:52:00 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:52:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:52:01 --> User Agent Class Initialized
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:52:01 --> Pagination Class Initialized
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:52:01 --> Model Class Initialized
+INFO - 2017-07-07 14:52:01 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:52:01 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:52:01 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:52:01 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:52:01 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:52:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:52:01 --> Final output sent to browser
+DEBUG - 2017-07-07 14:52:01 --> Total execution time: 0.2049
+INFO - 2017-07-07 14:59:37 --> Config Class Initialized
+INFO - 2017-07-07 14:59:37 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:37 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:37 --> URI Class Initialized
+INFO - 2017-07-07 14:59:37 --> Router Class Initialized
+INFO - 2017-07-07 14:59:37 --> Output Class Initialized
+INFO - 2017-07-07 14:59:37 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:37 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:37 --> Input Class Initialized
+INFO - 2017-07-07 14:59:37 --> Language Class Initialized
+INFO - 2017-07-07 14:59:37 --> Language Class Initialized
+INFO - 2017-07-07 14:59:37 --> Config Class Initialized
+INFO - 2017-07-07 14:59:37 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:37 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:37 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:37 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:37 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:37 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:37 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:37 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:37 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:37 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:37 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:37 --> Model Class Initialized
+INFO - 2017-07-07 14:59:37 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:37 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:37 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:59:37 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 14:59:37 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 14:59:37 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 14:59:37 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:37 --> Total execution time: 0.1985
+INFO - 2017-07-07 14:59:38 --> Config Class Initialized
+INFO - 2017-07-07 14:59:38 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:38 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:38 --> URI Class Initialized
+INFO - 2017-07-07 14:59:38 --> Router Class Initialized
+INFO - 2017-07-07 14:59:38 --> Output Class Initialized
+INFO - 2017-07-07 14:59:38 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:38 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:38 --> Input Class Initialized
+INFO - 2017-07-07 14:59:38 --> Language Class Initialized
+INFO - 2017-07-07 14:59:38 --> Language Class Initialized
+INFO - 2017-07-07 14:59:38 --> Config Class Initialized
+INFO - 2017-07-07 14:59:38 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:38 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:38 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:38 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:38 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:38 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:38 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:38 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:38 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:38 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:38 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:38 --> Model Class Initialized
+INFO - 2017-07-07 14:59:38 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:38 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:38 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:39 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:59:39 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 14:59:39 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 14:59:39 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 14:59:39 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 14:59:39 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 14:59:39 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 14:59:39 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 14:59:39 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:39 --> Total execution time: 0.3728
+INFO - 2017-07-07 14:59:40 --> Config Class Initialized
+INFO - 2017-07-07 14:59:40 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:40 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:40 --> URI Class Initialized
+INFO - 2017-07-07 14:59:40 --> Router Class Initialized
+INFO - 2017-07-07 14:59:40 --> Output Class Initialized
+INFO - 2017-07-07 14:59:40 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:40 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:40 --> Input Class Initialized
+INFO - 2017-07-07 14:59:40 --> Language Class Initialized
+INFO - 2017-07-07 14:59:40 --> Language Class Initialized
+INFO - 2017-07-07 14:59:40 --> Config Class Initialized
+INFO - 2017-07-07 14:59:40 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:40 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:40 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:40 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:40 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:40 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:40 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:40 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:40 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:40 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:40 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:40 --> Model Class Initialized
+INFO - 2017-07-07 14:59:40 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:40 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:40 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 14:59:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 14:59:40 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:40 --> Total execution time: 0.3248
+INFO - 2017-07-07 14:59:44 --> Config Class Initialized
+INFO - 2017-07-07 14:59:44 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:44 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:44 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:44 --> URI Class Initialized
+INFO - 2017-07-07 14:59:44 --> Router Class Initialized
+INFO - 2017-07-07 14:59:44 --> Output Class Initialized
+INFO - 2017-07-07 14:59:44 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:44 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:44 --> CSRF token verified
+INFO - 2017-07-07 14:59:44 --> Input Class Initialized
+INFO - 2017-07-07 14:59:44 --> Language Class Initialized
+INFO - 2017-07-07 14:59:44 --> Language Class Initialized
+INFO - 2017-07-07 14:59:44 --> Config Class Initialized
+INFO - 2017-07-07 14:59:44 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:44 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:44 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:44 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:44 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:44 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:44 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:44 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:44 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:44 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:45 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:45 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:45 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:45 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:45 --> Model Class Initialized
+INFO - 2017-07-07 14:59:45 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:45 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:45 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 14:59:45 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 14:59:45 --> DB Transaction Failure
+INFO - 2017-07-07 14:59:45 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:45 --> Total execution time: 0.3297
+INFO - 2017-07-07 14:59:50 --> Config Class Initialized
+INFO - 2017-07-07 14:59:50 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:50 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:50 --> URI Class Initialized
+INFO - 2017-07-07 14:59:50 --> Router Class Initialized
+INFO - 2017-07-07 14:59:50 --> Output Class Initialized
+INFO - 2017-07-07 14:59:50 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:50 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:50 --> CSRF token verified
+INFO - 2017-07-07 14:59:50 --> Input Class Initialized
+INFO - 2017-07-07 14:59:50 --> Language Class Initialized
+INFO - 2017-07-07 14:59:50 --> Language Class Initialized
+INFO - 2017-07-07 14:59:50 --> Config Class Initialized
+INFO - 2017-07-07 14:59:50 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:50 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:50 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:50 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:50 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:50 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:50 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:50 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:50 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:50 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:50 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:50 --> Model Class Initialized
+INFO - 2017-07-07 14:59:50 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:50 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:50 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 14:59:50 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 14:59:50 --> DB Transaction Failure
+INFO - 2017-07-07 14:59:50 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:50 --> Total execution time: 0.1586
+INFO - 2017-07-07 14:59:54 --> Config Class Initialized
+INFO - 2017-07-07 14:59:54 --> Hooks Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> UTF-8 Support Enabled
+INFO - 2017-07-07 14:59:54 --> Utf8 Class Initialized
+INFO - 2017-07-07 14:59:54 --> URI Class Initialized
+INFO - 2017-07-07 14:59:54 --> Router Class Initialized
+INFO - 2017-07-07 14:59:54 --> Output Class Initialized
+INFO - 2017-07-07 14:59:54 --> Security Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 14:59:54 --> CSRF cookie sent
+INFO - 2017-07-07 14:59:54 --> CSRF token verified
+INFO - 2017-07-07 14:59:54 --> Input Class Initialized
+INFO - 2017-07-07 14:59:54 --> Language Class Initialized
+INFO - 2017-07-07 14:59:54 --> Language Class Initialized
+INFO - 2017-07-07 14:59:54 --> Config Class Initialized
+INFO - 2017-07-07 14:59:54 --> Loader Class Initialized
+INFO - 2017-07-07 14:59:54 --> Helper loaded: form_helper
+INFO - 2017-07-07 14:59:54 --> Helper loaded: url_helper
+INFO - 2017-07-07 14:59:54 --> Helper loaded: text_helper
+INFO - 2017-07-07 14:59:54 --> Helper loaded: html_helper
+INFO - 2017-07-07 14:59:54 --> Helper loaded: download_helper
+INFO - 2017-07-07 14:59:54 --> Helper loaded: table_helper
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:54 --> Database Driver Class Initialized
+INFO - 2017-07-07 14:59:54 --> Form Validation Class Initialized
+INFO - 2017-07-07 14:59:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 14:59:54 --> User Agent Class Initialized
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:54 --> Pagination Class Initialized
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 14:59:54 --> Model Class Initialized
+INFO - 2017-07-07 14:59:54 --> Controller Class Initialized
+DEBUG - 2017-07-07 14:59:54 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 14:59:54 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 14:59:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 14:59:54 --> DB Transaction Failure
+INFO - 2017-07-07 14:59:54 --> Final output sent to browser
+DEBUG - 2017-07-07 14:59:54 --> Total execution time: 0.1635
+INFO - 2017-07-07 15:04:10 --> Config Class Initialized
+INFO - 2017-07-07 15:04:10 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:04:10 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:04:10 --> URI Class Initialized
+INFO - 2017-07-07 15:04:10 --> Router Class Initialized
+INFO - 2017-07-07 15:04:10 --> Output Class Initialized
+INFO - 2017-07-07 15:04:10 --> Security Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:04:10 --> CSRF cookie sent
+INFO - 2017-07-07 15:04:10 --> Input Class Initialized
+INFO - 2017-07-07 15:04:10 --> Language Class Initialized
+INFO - 2017-07-07 15:04:10 --> Language Class Initialized
+INFO - 2017-07-07 15:04:10 --> Config Class Initialized
+INFO - 2017-07-07 15:04:10 --> Loader Class Initialized
+INFO - 2017-07-07 15:04:10 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:04:10 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:04:10 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:04:10 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:04:10 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:04:10 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:04:10 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:04:10 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:04:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:04:10 --> User Agent Class Initialized
+INFO - 2017-07-07 15:04:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:04:10 --> Pagination Class Initialized
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:04:10 --> Model Class Initialized
+ERROR - 2017-07-07 15:04:10 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 112
+INFO - 2017-07-07 15:04:16 --> Config Class Initialized
+INFO - 2017-07-07 15:04:16 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:04:16 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:04:16 --> URI Class Initialized
+INFO - 2017-07-07 15:04:16 --> Router Class Initialized
+INFO - 2017-07-07 15:04:16 --> Output Class Initialized
+INFO - 2017-07-07 15:04:16 --> Security Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:04:16 --> CSRF cookie sent
+INFO - 2017-07-07 15:04:16 --> Input Class Initialized
+INFO - 2017-07-07 15:04:16 --> Language Class Initialized
+INFO - 2017-07-07 15:04:16 --> Language Class Initialized
+INFO - 2017-07-07 15:04:16 --> Config Class Initialized
+INFO - 2017-07-07 15:04:16 --> Loader Class Initialized
+INFO - 2017-07-07 15:04:16 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:04:16 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:04:16 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:04:16 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:04:16 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:04:16 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:04:16 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:04:16 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:04:16 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:04:16 --> User Agent Class Initialized
+INFO - 2017-07-07 15:04:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:04:16 --> Pagination Class Initialized
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+DEBUG - 2017-07-07 15:04:16 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:04:16 --> Model Class Initialized
+ERROR - 2017-07-07 15:04:16 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 112
+INFO - 2017-07-07 15:05:08 --> Config Class Initialized
+INFO - 2017-07-07 15:05:08 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:08 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:08 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:08 --> URI Class Initialized
+INFO - 2017-07-07 15:05:08 --> Router Class Initialized
+INFO - 2017-07-07 15:05:08 --> Output Class Initialized
+INFO - 2017-07-07 15:05:08 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:08 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:08 --> Input Class Initialized
+INFO - 2017-07-07 15:05:08 --> Language Class Initialized
+INFO - 2017-07-07 15:05:08 --> Language Class Initialized
+INFO - 2017-07-07 15:05:08 --> Config Class Initialized
+INFO - 2017-07-07 15:05:08 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:08 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:08 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:08 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:08 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:08 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:08 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:08 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:08 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:09 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:09 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:09 --> Model Class Initialized
+INFO - 2017-07-07 15:05:09 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:09 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:09 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:05:09 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:05:09 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:05:09 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:05:09 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:09 --> Total execution time: 0.1811
+INFO - 2017-07-07 15:05:10 --> Config Class Initialized
+INFO - 2017-07-07 15:05:10 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:10 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:10 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:10 --> URI Class Initialized
+INFO - 2017-07-07 15:05:10 --> Router Class Initialized
+INFO - 2017-07-07 15:05:10 --> Output Class Initialized
+INFO - 2017-07-07 15:05:10 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:10 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:10 --> Input Class Initialized
+INFO - 2017-07-07 15:05:10 --> Language Class Initialized
+INFO - 2017-07-07 15:05:10 --> Language Class Initialized
+INFO - 2017-07-07 15:05:10 --> Config Class Initialized
+INFO - 2017-07-07 15:05:10 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:10 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:10 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:10 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:10 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:10 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:10 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:10 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:11 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:11 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:11 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:11 --> Model Class Initialized
+INFO - 2017-07-07 15:05:11 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:11 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:11 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:05:11 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:05:11 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:05:11 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:05:11 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:11 --> Total execution time: 0.3100
+INFO - 2017-07-07 15:05:13 --> Config Class Initialized
+INFO - 2017-07-07 15:05:13 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:13 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:13 --> URI Class Initialized
+INFO - 2017-07-07 15:05:13 --> Router Class Initialized
+INFO - 2017-07-07 15:05:13 --> Output Class Initialized
+INFO - 2017-07-07 15:05:13 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:13 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:13 --> Input Class Initialized
+INFO - 2017-07-07 15:05:13 --> Language Class Initialized
+INFO - 2017-07-07 15:05:13 --> Language Class Initialized
+INFO - 2017-07-07 15:05:13 --> Config Class Initialized
+INFO - 2017-07-07 15:05:13 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:13 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:13 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:13 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:13 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:13 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:13 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:13 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:13 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:13 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:13 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:13 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:13 --> Model Class Initialized
+INFO - 2017-07-07 15:05:13 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:13 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:13 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:05:13 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:05:13 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:13 --> Total execution time: 0.2039
+INFO - 2017-07-07 15:05:18 --> Config Class Initialized
+INFO - 2017-07-07 15:05:18 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:18 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:18 --> URI Class Initialized
+INFO - 2017-07-07 15:05:18 --> Router Class Initialized
+INFO - 2017-07-07 15:05:18 --> Output Class Initialized
+INFO - 2017-07-07 15:05:18 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:18 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:18 --> CSRF token verified
+INFO - 2017-07-07 15:05:18 --> Input Class Initialized
+INFO - 2017-07-07 15:05:18 --> Language Class Initialized
+INFO - 2017-07-07 15:05:18 --> Language Class Initialized
+INFO - 2017-07-07 15:05:18 --> Config Class Initialized
+INFO - 2017-07-07 15:05:18 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:18 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:18 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:18 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:18 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:18 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:18 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:18 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:18 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:18 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:18 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:18 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:18 --> Model Class Initialized
+INFO - 2017-07-07 15:05:18 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:18 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:18 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 15:05:18 --> Severity: error --> Exception: Call to undefined method Role::log_message() C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 110
+INFO - 2017-07-07 15:05:20 --> Config Class Initialized
+INFO - 2017-07-07 15:05:20 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:20 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:20 --> URI Class Initialized
+INFO - 2017-07-07 15:05:20 --> Router Class Initialized
+INFO - 2017-07-07 15:05:20 --> Output Class Initialized
+INFO - 2017-07-07 15:05:20 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:20 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:20 --> CSRF token verified
+INFO - 2017-07-07 15:05:20 --> Input Class Initialized
+INFO - 2017-07-07 15:05:20 --> Language Class Initialized
+INFO - 2017-07-07 15:05:20 --> Language Class Initialized
+INFO - 2017-07-07 15:05:20 --> Config Class Initialized
+INFO - 2017-07-07 15:05:20 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:20 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:20 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:20 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:20 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:20 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:20 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:20 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:20 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:20 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:20 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:20 --> Model Class Initialized
+INFO - 2017-07-07 15:05:20 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:20 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:20 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2017-07-07 15:05:20 --> Severity: error --> Exception: Call to undefined method Role::log_message() C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 110
+INFO - 2017-07-07 15:05:47 --> Config Class Initialized
+INFO - 2017-07-07 15:05:47 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:47 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:47 --> URI Class Initialized
+INFO - 2017-07-07 15:05:47 --> Router Class Initialized
+INFO - 2017-07-07 15:05:47 --> Output Class Initialized
+INFO - 2017-07-07 15:05:47 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:47 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:47 --> Input Class Initialized
+INFO - 2017-07-07 15:05:47 --> Language Class Initialized
+INFO - 2017-07-07 15:05:47 --> Language Class Initialized
+INFO - 2017-07-07 15:05:47 --> Config Class Initialized
+INFO - 2017-07-07 15:05:47 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:47 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:47 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:47 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:47 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:47 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:47 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:47 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:47 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:47 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:47 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:47 --> Model Class Initialized
+INFO - 2017-07-07 15:05:47 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:47 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:47 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:05:47 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:05:47 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:05:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:05:47 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:47 --> Total execution time: 0.2045
+INFO - 2017-07-07 15:05:48 --> Config Class Initialized
+INFO - 2017-07-07 15:05:48 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:48 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:48 --> URI Class Initialized
+INFO - 2017-07-07 15:05:48 --> Router Class Initialized
+INFO - 2017-07-07 15:05:48 --> Output Class Initialized
+INFO - 2017-07-07 15:05:48 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:48 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:48 --> Input Class Initialized
+INFO - 2017-07-07 15:05:48 --> Language Class Initialized
+INFO - 2017-07-07 15:05:48 --> Language Class Initialized
+INFO - 2017-07-07 15:05:48 --> Config Class Initialized
+INFO - 2017-07-07 15:05:48 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:48 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:48 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:48 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:48 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:48 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:48 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:48 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:48 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:48 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:48 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:48 --> Model Class Initialized
+INFO - 2017-07-07 15:05:48 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:48 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:48 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:05:48 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:05:48 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:05:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:05:48 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:48 --> Total execution time: 0.2805
+INFO - 2017-07-07 15:05:50 --> Config Class Initialized
+INFO - 2017-07-07 15:05:50 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:50 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:50 --> URI Class Initialized
+INFO - 2017-07-07 15:05:50 --> Router Class Initialized
+INFO - 2017-07-07 15:05:50 --> Output Class Initialized
+INFO - 2017-07-07 15:05:50 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:50 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:50 --> Input Class Initialized
+INFO - 2017-07-07 15:05:50 --> Language Class Initialized
+INFO - 2017-07-07 15:05:50 --> Language Class Initialized
+INFO - 2017-07-07 15:05:50 --> Config Class Initialized
+INFO - 2017-07-07 15:05:50 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:50 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:50 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:50 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:50 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:50 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:50 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:50 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:50 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:50 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:50 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:50 --> Model Class Initialized
+INFO - 2017-07-07 15:05:50 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:50 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:50 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:05:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:05:50 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:50 --> Total execution time: 0.3125
+INFO - 2017-07-07 15:05:56 --> Config Class Initialized
+INFO - 2017-07-07 15:05:56 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:56 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:56 --> URI Class Initialized
+INFO - 2017-07-07 15:05:56 --> Router Class Initialized
+INFO - 2017-07-07 15:05:56 --> Output Class Initialized
+INFO - 2017-07-07 15:05:56 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:56 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:56 --> CSRF token verified
+INFO - 2017-07-07 15:05:56 --> Input Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language Class Initialized
+INFO - 2017-07-07 15:05:56 --> Config Class Initialized
+INFO - 2017-07-07 15:05:56 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:56 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:56 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:56 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:56 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:56 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+INFO - 2017-07-07 15:05:56 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:05:56 --> Array
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:05:56 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:05:56 --> DB Transaction Failure
+INFO - 2017-07-07 15:05:56 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:56 --> Total execution time: 0.2784
+INFO - 2017-07-07 15:05:56 --> Config Class Initialized
+INFO - 2017-07-07 15:05:56 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:05:56 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:05:56 --> URI Class Initialized
+INFO - 2017-07-07 15:05:56 --> Router Class Initialized
+INFO - 2017-07-07 15:05:56 --> Output Class Initialized
+INFO - 2017-07-07 15:05:56 --> Security Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:05:56 --> CSRF cookie sent
+INFO - 2017-07-07 15:05:56 --> Input Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language Class Initialized
+INFO - 2017-07-07 15:05:56 --> Config Class Initialized
+INFO - 2017-07-07 15:05:56 --> Loader Class Initialized
+INFO - 2017-07-07 15:05:56 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:05:56 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:56 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:05:56 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:05:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:05:56 --> User Agent Class Initialized
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:05:56 --> Pagination Class Initialized
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:05:56 --> Model Class Initialized
+INFO - 2017-07-07 15:05:56 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:05:56 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:05:56 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:05:56 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:05:56 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:05:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:05:56 --> Final output sent to browser
+DEBUG - 2017-07-07 15:05:56 --> Total execution time: 0.2855
+INFO - 2017-07-07 15:06:44 --> Config Class Initialized
+INFO - 2017-07-07 15:06:44 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:06:44 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:06:44 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:06:44 --> URI Class Initialized
+INFO - 2017-07-07 15:06:44 --> Router Class Initialized
+INFO - 2017-07-07 15:06:44 --> Output Class Initialized
+INFO - 2017-07-07 15:06:44 --> Security Class Initialized
+DEBUG - 2017-07-07 15:06:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:06:44 --> CSRF cookie sent
+INFO - 2017-07-07 15:06:44 --> Input Class Initialized
+INFO - 2017-07-07 15:06:44 --> Language Class Initialized
+INFO - 2017-07-07 15:06:44 --> Language Class Initialized
+INFO - 2017-07-07 15:06:44 --> Config Class Initialized
+INFO - 2017-07-07 15:06:44 --> Loader Class Initialized
+INFO - 2017-07-07 15:06:44 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:06:44 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:06:44 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:06:44 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:06:44 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:06:44 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:06:44 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:06:44 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:06:44 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:06:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:06:45 --> User Agent Class Initialized
+INFO - 2017-07-07 15:06:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:06:45 --> Pagination Class Initialized
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+DEBUG - 2017-07-07 15:06:45 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:06:45 --> Model Class Initialized
+ERROR - 2017-07-07 15:06:45 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 110
+INFO - 2017-07-07 15:07:28 --> Config Class Initialized
+INFO - 2017-07-07 15:07:28 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:07:28 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:07:28 --> URI Class Initialized
+INFO - 2017-07-07 15:07:28 --> Router Class Initialized
+INFO - 2017-07-07 15:07:28 --> Output Class Initialized
+INFO - 2017-07-07 15:07:28 --> Security Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:07:28 --> CSRF cookie sent
+INFO - 2017-07-07 15:07:28 --> Input Class Initialized
+INFO - 2017-07-07 15:07:28 --> Language Class Initialized
+INFO - 2017-07-07 15:07:28 --> Language Class Initialized
+INFO - 2017-07-07 15:07:28 --> Config Class Initialized
+INFO - 2017-07-07 15:07:28 --> Loader Class Initialized
+INFO - 2017-07-07 15:07:28 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:07:28 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:07:28 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:07:28 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:07:28 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:07:28 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:28 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:07:28 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:07:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:07:28 --> User Agent Class Initialized
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:28 --> Pagination Class Initialized
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:07:28 --> Model Class Initialized
+INFO - 2017-07-07 15:07:28 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:07:28 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:28 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:07:28 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:07:28 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:07:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:07:28 --> Final output sent to browser
+DEBUG - 2017-07-07 15:07:28 --> Total execution time: 0.1836
+INFO - 2017-07-07 15:07:29 --> Config Class Initialized
+INFO - 2017-07-07 15:07:29 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:07:29 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:07:29 --> URI Class Initialized
+INFO - 2017-07-07 15:07:29 --> Router Class Initialized
+INFO - 2017-07-07 15:07:29 --> Output Class Initialized
+INFO - 2017-07-07 15:07:29 --> Security Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:07:29 --> CSRF cookie sent
+INFO - 2017-07-07 15:07:29 --> Input Class Initialized
+INFO - 2017-07-07 15:07:29 --> Language Class Initialized
+INFO - 2017-07-07 15:07:29 --> Language Class Initialized
+INFO - 2017-07-07 15:07:29 --> Config Class Initialized
+INFO - 2017-07-07 15:07:29 --> Loader Class Initialized
+INFO - 2017-07-07 15:07:29 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:07:29 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:07:29 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:07:29 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:07:29 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:07:29 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:29 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:07:29 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:07:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:07:29 --> User Agent Class Initialized
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:29 --> Pagination Class Initialized
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:07:29 --> Model Class Initialized
+INFO - 2017-07-07 15:07:29 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:07:29 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:29 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:07:29 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:07:29 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:07:29 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:07:29 --> Final output sent to browser
+DEBUG - 2017-07-07 15:07:29 --> Total execution time: 0.3278
+INFO - 2017-07-07 15:07:31 --> Config Class Initialized
+INFO - 2017-07-07 15:07:31 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:07:31 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:07:31 --> URI Class Initialized
+INFO - 2017-07-07 15:07:31 --> Router Class Initialized
+INFO - 2017-07-07 15:07:31 --> Output Class Initialized
+INFO - 2017-07-07 15:07:31 --> Security Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:07:31 --> CSRF cookie sent
+INFO - 2017-07-07 15:07:31 --> Input Class Initialized
+INFO - 2017-07-07 15:07:31 --> Language Class Initialized
+INFO - 2017-07-07 15:07:31 --> Language Class Initialized
+INFO - 2017-07-07 15:07:31 --> Config Class Initialized
+INFO - 2017-07-07 15:07:31 --> Loader Class Initialized
+INFO - 2017-07-07 15:07:31 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:07:31 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:07:31 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:07:31 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:07:31 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:07:31 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:31 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:07:31 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:07:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:07:31 --> User Agent Class Initialized
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:31 --> Pagination Class Initialized
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:07:31 --> Model Class Initialized
+INFO - 2017-07-07 15:07:31 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:07:31 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:31 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:07:31 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:07:31 --> Final output sent to browser
+DEBUG - 2017-07-07 15:07:31 --> Total execution time: 0.3414
+INFO - 2017-07-07 15:07:38 --> Config Class Initialized
+INFO - 2017-07-07 15:07:38 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:07:38 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:07:38 --> URI Class Initialized
+INFO - 2017-07-07 15:07:38 --> Router Class Initialized
+INFO - 2017-07-07 15:07:38 --> Output Class Initialized
+INFO - 2017-07-07 15:07:38 --> Security Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:07:38 --> CSRF cookie sent
+INFO - 2017-07-07 15:07:38 --> CSRF token verified
+INFO - 2017-07-07 15:07:38 --> Input Class Initialized
+INFO - 2017-07-07 15:07:38 --> Language Class Initialized
+INFO - 2017-07-07 15:07:38 --> Language Class Initialized
+INFO - 2017-07-07 15:07:38 --> Config Class Initialized
+INFO - 2017-07-07 15:07:38 --> Loader Class Initialized
+INFO - 2017-07-07 15:07:38 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:07:38 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:07:38 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:07:38 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:07:38 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:07:38 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:38 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:07:38 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:07:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:07:38 --> User Agent Class Initialized
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:38 --> Pagination Class Initialized
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:07:38 --> Model Class Initialized
+INFO - 2017-07-07 15:07:38 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:07:38 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:07:38 --> 
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:07:38 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:07:38 --> DB Transaction Failure
+INFO - 2017-07-07 15:07:38 --> Final output sent to browser
+DEBUG - 2017-07-07 15:07:38 --> Total execution time: 0.3001
+INFO - 2017-07-07 15:07:40 --> Config Class Initialized
+INFO - 2017-07-07 15:07:40 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:07:40 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:07:40 --> URI Class Initialized
+INFO - 2017-07-07 15:07:40 --> Router Class Initialized
+INFO - 2017-07-07 15:07:40 --> Output Class Initialized
+INFO - 2017-07-07 15:07:40 --> Security Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:07:40 --> CSRF cookie sent
+INFO - 2017-07-07 15:07:40 --> CSRF token verified
+INFO - 2017-07-07 15:07:40 --> Input Class Initialized
+INFO - 2017-07-07 15:07:40 --> Language Class Initialized
+INFO - 2017-07-07 15:07:40 --> Language Class Initialized
+INFO - 2017-07-07 15:07:40 --> Config Class Initialized
+INFO - 2017-07-07 15:07:40 --> Loader Class Initialized
+INFO - 2017-07-07 15:07:40 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:07:40 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:07:40 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:07:40 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:07:40 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:07:40 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:40 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:07:40 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:07:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:07:40 --> User Agent Class Initialized
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:40 --> Pagination Class Initialized
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:07:40 --> Model Class Initialized
+INFO - 2017-07-07 15:07:40 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:07:40 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:07:40 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:07:40 --> 
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:07:41 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:07:41 --> DB Transaction Failure
+INFO - 2017-07-07 15:07:41 --> Final output sent to browser
+DEBUG - 2017-07-07 15:07:41 --> Total execution time: 0.1488
+INFO - 2017-07-07 15:09:01 --> Config Class Initialized
+INFO - 2017-07-07 15:09:01 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:09:01 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:09:01 --> URI Class Initialized
+INFO - 2017-07-07 15:09:01 --> Router Class Initialized
+INFO - 2017-07-07 15:09:01 --> Output Class Initialized
+INFO - 2017-07-07 15:09:01 --> Security Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:09:01 --> CSRF cookie sent
+INFO - 2017-07-07 15:09:01 --> Input Class Initialized
+INFO - 2017-07-07 15:09:01 --> Language Class Initialized
+INFO - 2017-07-07 15:09:01 --> Language Class Initialized
+INFO - 2017-07-07 15:09:01 --> Config Class Initialized
+INFO - 2017-07-07 15:09:01 --> Loader Class Initialized
+INFO - 2017-07-07 15:09:01 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:09:01 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:09:01 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:09:01 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:09:01 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:09:01 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:01 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:09:01 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:09:01 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:09:01 --> User Agent Class Initialized
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:01 --> Pagination Class Initialized
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:09:01 --> Model Class Initialized
+INFO - 2017-07-07 15:09:01 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:09:01 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:01 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:09:01 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:09:01 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:09:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:09:01 --> Final output sent to browser
+DEBUG - 2017-07-07 15:09:01 --> Total execution time: 0.2144
+INFO - 2017-07-07 15:09:02 --> Config Class Initialized
+INFO - 2017-07-07 15:09:02 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:09:02 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:09:02 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:09:02 --> URI Class Initialized
+INFO - 2017-07-07 15:09:02 --> Router Class Initialized
+INFO - 2017-07-07 15:09:02 --> Output Class Initialized
+INFO - 2017-07-07 15:09:02 --> Security Class Initialized
+DEBUG - 2017-07-07 15:09:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:09:02 --> CSRF cookie sent
+INFO - 2017-07-07 15:09:02 --> Input Class Initialized
+INFO - 2017-07-07 15:09:02 --> Language Class Initialized
+INFO - 2017-07-07 15:09:02 --> Language Class Initialized
+INFO - 2017-07-07 15:09:02 --> Config Class Initialized
+INFO - 2017-07-07 15:09:02 --> Loader Class Initialized
+INFO - 2017-07-07 15:09:02 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:09:02 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:09:02 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:09:02 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:09:02 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:09:02 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:02 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:03 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:09:03 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:09:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:09:03 --> User Agent Class Initialized
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:03 --> Pagination Class Initialized
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+INFO - 2017-07-07 15:09:03 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:09:03 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:09:03 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:09:03 --> Final output sent to browser
+DEBUG - 2017-07-07 15:09:03 --> Total execution time: 0.2435
+INFO - 2017-07-07 15:09:03 --> Config Class Initialized
+INFO - 2017-07-07 15:09:03 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:09:03 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:09:03 --> URI Class Initialized
+INFO - 2017-07-07 15:09:03 --> Router Class Initialized
+INFO - 2017-07-07 15:09:03 --> Output Class Initialized
+INFO - 2017-07-07 15:09:03 --> Security Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:09:03 --> CSRF cookie sent
+INFO - 2017-07-07 15:09:03 --> Input Class Initialized
+INFO - 2017-07-07 15:09:03 --> Language Class Initialized
+INFO - 2017-07-07 15:09:03 --> Language Class Initialized
+INFO - 2017-07-07 15:09:03 --> Config Class Initialized
+INFO - 2017-07-07 15:09:03 --> Loader Class Initialized
+INFO - 2017-07-07 15:09:03 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:09:03 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:09:03 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:09:03 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:09:03 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:09:03 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:03 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:09:03 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:09:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:09:03 --> User Agent Class Initialized
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:03 --> Pagination Class Initialized
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:09:03 --> Model Class Initialized
+INFO - 2017-07-07 15:09:03 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:09:03 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:03 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:09:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:09:03 --> Final output sent to browser
+DEBUG - 2017-07-07 15:09:03 --> Total execution time: 0.3231
+INFO - 2017-07-07 15:09:07 --> Config Class Initialized
+INFO - 2017-07-07 15:09:07 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:09:07 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:09:07 --> URI Class Initialized
+INFO - 2017-07-07 15:09:07 --> Router Class Initialized
+INFO - 2017-07-07 15:09:07 --> Output Class Initialized
+INFO - 2017-07-07 15:09:07 --> Security Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:09:07 --> CSRF cookie sent
+INFO - 2017-07-07 15:09:07 --> CSRF token verified
+INFO - 2017-07-07 15:09:07 --> Input Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language Class Initialized
+INFO - 2017-07-07 15:09:07 --> Config Class Initialized
+INFO - 2017-07-07 15:09:07 --> Loader Class Initialized
+INFO - 2017-07-07 15:09:07 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:07 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:09:07 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:09:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:09:07 --> User Agent Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:07 --> Pagination Class Initialized
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+INFO - 2017-07-07 15:09:07 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:09:07 --> rrrrr
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:09:07 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:09:07 --> DB Transaction Failure
+INFO - 2017-07-07 15:09:07 --> Final output sent to browser
+DEBUG - 2017-07-07 15:09:07 --> Total execution time: 0.2351
+INFO - 2017-07-07 15:09:07 --> Config Class Initialized
+INFO - 2017-07-07 15:09:07 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:09:07 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:09:07 --> URI Class Initialized
+INFO - 2017-07-07 15:09:07 --> Router Class Initialized
+INFO - 2017-07-07 15:09:07 --> Output Class Initialized
+INFO - 2017-07-07 15:09:07 --> Security Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:09:07 --> CSRF cookie sent
+INFO - 2017-07-07 15:09:07 --> Input Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language Class Initialized
+INFO - 2017-07-07 15:09:07 --> Config Class Initialized
+INFO - 2017-07-07 15:09:07 --> Loader Class Initialized
+INFO - 2017-07-07 15:09:07 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:09:07 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:07 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:09:07 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:09:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:09:07 --> User Agent Class Initialized
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:09:07 --> Pagination Class Initialized
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:09:07 --> Model Class Initialized
+INFO - 2017-07-07 15:09:07 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:09:07 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:09:07 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:09:08 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:09:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:09:08 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:09:08 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:09:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:09:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:09:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:09:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:09:08 --> Final output sent to browser
+DEBUG - 2017-07-07 15:09:08 --> Total execution time: 0.3191
+INFO - 2017-07-07 15:11:47 --> Config Class Initialized
+INFO - 2017-07-07 15:11:47 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:11:47 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:11:47 --> URI Class Initialized
+INFO - 2017-07-07 15:11:47 --> Router Class Initialized
+INFO - 2017-07-07 15:11:47 --> Output Class Initialized
+INFO - 2017-07-07 15:11:47 --> Security Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:11:47 --> CSRF cookie sent
+INFO - 2017-07-07 15:11:47 --> Input Class Initialized
+INFO - 2017-07-07 15:11:47 --> Language Class Initialized
+INFO - 2017-07-07 15:11:47 --> Language Class Initialized
+INFO - 2017-07-07 15:11:47 --> Config Class Initialized
+INFO - 2017-07-07 15:11:47 --> Loader Class Initialized
+INFO - 2017-07-07 15:11:47 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:11:47 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:11:47 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:11:47 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:11:47 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:11:47 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:47 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:11:47 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:11:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:11:47 --> User Agent Class Initialized
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:47 --> Pagination Class Initialized
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:11:47 --> Model Class Initialized
+INFO - 2017-07-07 15:11:47 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:11:47 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:47 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:11:47 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:11:47 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:11:48 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:11:48 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:11:48 --> Final output sent to browser
+DEBUG - 2017-07-07 15:11:48 --> Total execution time: 0.2206
+INFO - 2017-07-07 15:11:49 --> Config Class Initialized
+INFO - 2017-07-07 15:11:49 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:11:49 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:11:49 --> URI Class Initialized
+INFO - 2017-07-07 15:11:49 --> Router Class Initialized
+INFO - 2017-07-07 15:11:49 --> Output Class Initialized
+INFO - 2017-07-07 15:11:49 --> Security Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:11:49 --> CSRF cookie sent
+INFO - 2017-07-07 15:11:49 --> Input Class Initialized
+INFO - 2017-07-07 15:11:49 --> Language Class Initialized
+INFO - 2017-07-07 15:11:49 --> Language Class Initialized
+INFO - 2017-07-07 15:11:49 --> Config Class Initialized
+INFO - 2017-07-07 15:11:49 --> Loader Class Initialized
+INFO - 2017-07-07 15:11:49 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:11:49 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:11:49 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:11:49 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:11:49 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:11:49 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:49 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:11:49 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:11:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:11:49 --> User Agent Class Initialized
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:49 --> Pagination Class Initialized
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:11:49 --> Model Class Initialized
+INFO - 2017-07-07 15:11:49 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:11:49 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:49 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:11:49 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:11:49 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:11:49 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:11:49 --> Final output sent to browser
+DEBUG - 2017-07-07 15:11:49 --> Total execution time: 0.2943
+INFO - 2017-07-07 15:11:50 --> Config Class Initialized
+INFO - 2017-07-07 15:11:50 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:11:50 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:11:50 --> URI Class Initialized
+INFO - 2017-07-07 15:11:50 --> Router Class Initialized
+INFO - 2017-07-07 15:11:50 --> Output Class Initialized
+INFO - 2017-07-07 15:11:50 --> Security Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:11:50 --> CSRF cookie sent
+INFO - 2017-07-07 15:11:50 --> Input Class Initialized
+INFO - 2017-07-07 15:11:50 --> Language Class Initialized
+INFO - 2017-07-07 15:11:50 --> Language Class Initialized
+INFO - 2017-07-07 15:11:50 --> Config Class Initialized
+INFO - 2017-07-07 15:11:50 --> Loader Class Initialized
+INFO - 2017-07-07 15:11:50 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:11:50 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:11:50 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:11:50 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:11:50 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:11:50 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:50 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:11:50 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:11:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:11:50 --> User Agent Class Initialized
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:50 --> Pagination Class Initialized
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:11:50 --> Model Class Initialized
+INFO - 2017-07-07 15:11:50 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:11:50 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:50 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:11:50 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:11:50 --> Final output sent to browser
+DEBUG - 2017-07-07 15:11:50 --> Total execution time: 0.3359
+INFO - 2017-07-07 15:11:54 --> Config Class Initialized
+INFO - 2017-07-07 15:11:54 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:11:54 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:11:54 --> URI Class Initialized
+INFO - 2017-07-07 15:11:54 --> Router Class Initialized
+INFO - 2017-07-07 15:11:54 --> Output Class Initialized
+INFO - 2017-07-07 15:11:54 --> Security Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:11:54 --> CSRF cookie sent
+INFO - 2017-07-07 15:11:54 --> CSRF token verified
+INFO - 2017-07-07 15:11:54 --> Input Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language Class Initialized
+INFO - 2017-07-07 15:11:54 --> Config Class Initialized
+INFO - 2017-07-07 15:11:54 --> Loader Class Initialized
+INFO - 2017-07-07 15:11:54 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:54 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:11:54 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:11:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:11:54 --> User Agent Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:54 --> Pagination Class Initialized
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+INFO - 2017-07-07 15:11:54 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:11:54 --> rrrrr
+DEBUG - 2017-07-07 15:11:54 --> -1
+DEBUG - 2017-07-07 15:11:54 --> 
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:11:54 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:11:54 --> DB Transaction Failure
+INFO - 2017-07-07 15:11:54 --> Final output sent to browser
+DEBUG - 2017-07-07 15:11:54 --> Total execution time: 0.2354
+INFO - 2017-07-07 15:11:54 --> Config Class Initialized
+INFO - 2017-07-07 15:11:54 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:11:54 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:11:54 --> URI Class Initialized
+INFO - 2017-07-07 15:11:54 --> Router Class Initialized
+INFO - 2017-07-07 15:11:54 --> Output Class Initialized
+INFO - 2017-07-07 15:11:54 --> Security Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:11:54 --> CSRF cookie sent
+INFO - 2017-07-07 15:11:54 --> Input Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language Class Initialized
+INFO - 2017-07-07 15:11:54 --> Config Class Initialized
+INFO - 2017-07-07 15:11:54 --> Loader Class Initialized
+INFO - 2017-07-07 15:11:54 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:11:54 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:54 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:11:54 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:11:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:11:54 --> User Agent Class Initialized
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:11:54 --> Pagination Class Initialized
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:11:54 --> Model Class Initialized
+INFO - 2017-07-07 15:11:54 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:11:54 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:11:54 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:11:54 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:11:54 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:11:54 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:11:54 --> Final output sent to browser
+DEBUG - 2017-07-07 15:11:54 --> Total execution time: 0.2256
+INFO - 2017-07-07 15:13:26 --> Config Class Initialized
+INFO - 2017-07-07 15:13:26 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:13:26 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:13:26 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:13:26 --> URI Class Initialized
+INFO - 2017-07-07 15:13:26 --> Router Class Initialized
+INFO - 2017-07-07 15:13:26 --> Output Class Initialized
+INFO - 2017-07-07 15:13:26 --> Security Class Initialized
+DEBUG - 2017-07-07 15:13:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:13:26 --> CSRF cookie sent
+INFO - 2017-07-07 15:13:26 --> Input Class Initialized
+INFO - 2017-07-07 15:13:26 --> Language Class Initialized
+INFO - 2017-07-07 15:13:26 --> Language Class Initialized
+INFO - 2017-07-07 15:13:26 --> Config Class Initialized
+INFO - 2017-07-07 15:13:26 --> Loader Class Initialized
+INFO - 2017-07-07 15:13:26 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:13:27 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:13:27 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:13:27 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:13:27 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:13:27 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:27 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:13:27 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:13:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:13:27 --> User Agent Class Initialized
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:27 --> Pagination Class Initialized
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:13:27 --> Model Class Initialized
+INFO - 2017-07-07 15:13:27 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:13:27 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:27 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:13:27 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:13:27 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:13:27 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:13:27 --> Final output sent to browser
+DEBUG - 2017-07-07 15:13:27 --> Total execution time: 0.2163
+INFO - 2017-07-07 15:13:28 --> Config Class Initialized
+INFO - 2017-07-07 15:13:28 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:13:28 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:13:28 --> URI Class Initialized
+INFO - 2017-07-07 15:13:28 --> Router Class Initialized
+INFO - 2017-07-07 15:13:28 --> Output Class Initialized
+INFO - 2017-07-07 15:13:28 --> Security Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:13:28 --> CSRF cookie sent
+INFO - 2017-07-07 15:13:28 --> Input Class Initialized
+INFO - 2017-07-07 15:13:28 --> Language Class Initialized
+INFO - 2017-07-07 15:13:28 --> Language Class Initialized
+INFO - 2017-07-07 15:13:28 --> Config Class Initialized
+INFO - 2017-07-07 15:13:28 --> Loader Class Initialized
+INFO - 2017-07-07 15:13:28 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:13:28 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:13:28 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:13:28 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:13:28 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:13:28 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:28 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:13:28 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:13:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:13:28 --> User Agent Class Initialized
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:28 --> Pagination Class Initialized
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:13:28 --> Model Class Initialized
+INFO - 2017-07-07 15:13:28 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:13:28 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:28 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:13:28 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:13:28 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:13:28 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:13:28 --> Final output sent to browser
+DEBUG - 2017-07-07 15:13:28 --> Total execution time: 0.3208
+INFO - 2017-07-07 15:13:29 --> Config Class Initialized
+INFO - 2017-07-07 15:13:29 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:13:29 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:13:29 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:13:29 --> URI Class Initialized
+INFO - 2017-07-07 15:13:29 --> Router Class Initialized
+INFO - 2017-07-07 15:13:30 --> Output Class Initialized
+INFO - 2017-07-07 15:13:30 --> Security Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:13:30 --> CSRF cookie sent
+INFO - 2017-07-07 15:13:30 --> Input Class Initialized
+INFO - 2017-07-07 15:13:30 --> Language Class Initialized
+INFO - 2017-07-07 15:13:30 --> Language Class Initialized
+INFO - 2017-07-07 15:13:30 --> Config Class Initialized
+INFO - 2017-07-07 15:13:30 --> Loader Class Initialized
+INFO - 2017-07-07 15:13:30 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:13:30 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:13:30 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:13:30 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:13:30 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:13:30 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:30 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:13:30 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:13:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:13:30 --> User Agent Class Initialized
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:30 --> Pagination Class Initialized
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:13:30 --> Model Class Initialized
+INFO - 2017-07-07 15:13:30 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:13:30 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:30 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:13:30 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:13:30 --> Final output sent to browser
+DEBUG - 2017-07-07 15:13:30 --> Total execution time: 0.1886
+INFO - 2017-07-07 15:13:34 --> Config Class Initialized
+INFO - 2017-07-07 15:13:34 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:13:34 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:13:34 --> URI Class Initialized
+INFO - 2017-07-07 15:13:34 --> Router Class Initialized
+INFO - 2017-07-07 15:13:34 --> Output Class Initialized
+INFO - 2017-07-07 15:13:34 --> Security Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:13:34 --> CSRF cookie sent
+INFO - 2017-07-07 15:13:34 --> CSRF token verified
+INFO - 2017-07-07 15:13:34 --> Input Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language Class Initialized
+INFO - 2017-07-07 15:13:34 --> Config Class Initialized
+INFO - 2017-07-07 15:13:34 --> Loader Class Initialized
+INFO - 2017-07-07 15:13:34 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:34 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:13:34 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:13:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:13:34 --> User Agent Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:34 --> Pagination Class Initialized
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+INFO - 2017-07-07 15:13:34 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:13:34 --> 1234
+DEBUG - 2017-07-07 15:13:34 --> -1
+DEBUG - 2017-07-07 15:13:34 --> 
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:13:34 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:13:34 --> DB Transaction Failure
+INFO - 2017-07-07 15:13:34 --> Final output sent to browser
+DEBUG - 2017-07-07 15:13:34 --> Total execution time: 0.2312
+INFO - 2017-07-07 15:13:34 --> Config Class Initialized
+INFO - 2017-07-07 15:13:34 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:13:34 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:13:34 --> URI Class Initialized
+INFO - 2017-07-07 15:13:34 --> Router Class Initialized
+INFO - 2017-07-07 15:13:34 --> Output Class Initialized
+INFO - 2017-07-07 15:13:34 --> Security Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:13:34 --> CSRF cookie sent
+INFO - 2017-07-07 15:13:34 --> Input Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language Class Initialized
+INFO - 2017-07-07 15:13:34 --> Config Class Initialized
+INFO - 2017-07-07 15:13:34 --> Loader Class Initialized
+INFO - 2017-07-07 15:13:34 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:13:34 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:34 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:13:34 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:13:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:13:34 --> User Agent Class Initialized
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:13:34 --> Pagination Class Initialized
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:13:34 --> Model Class Initialized
+INFO - 2017-07-07 15:13:34 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:13:34 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:13:34 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:13:34 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:13:34 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:13:34 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:13:34 --> Final output sent to browser
+DEBUG - 2017-07-07 15:13:34 --> Total execution time: 0.2352
+INFO - 2017-07-07 15:14:55 --> Config Class Initialized
+INFO - 2017-07-07 15:14:55 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:14:55 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:14:55 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:14:55 --> URI Class Initialized
+INFO - 2017-07-07 15:14:55 --> Router Class Initialized
+INFO - 2017-07-07 15:14:55 --> Output Class Initialized
+INFO - 2017-07-07 15:14:55 --> Security Class Initialized
+DEBUG - 2017-07-07 15:14:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:14:55 --> CSRF cookie sent
+INFO - 2017-07-07 15:14:55 --> Input Class Initialized
+INFO - 2017-07-07 15:14:55 --> Language Class Initialized
+INFO - 2017-07-07 15:14:55 --> Language Class Initialized
+INFO - 2017-07-07 15:14:55 --> Config Class Initialized
+INFO - 2017-07-07 15:14:55 --> Loader Class Initialized
+INFO - 2017-07-07 15:14:55 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:14:55 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:14:55 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:14:55 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:14:55 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:14:55 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:55 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:14:55 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:14:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:14:55 --> User Agent Class Initialized
+INFO - 2017-07-07 15:14:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:14:55 --> Pagination Class Initialized
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:14:56 --> Model Class Initialized
+INFO - 2017-07-07 15:14:56 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:14:56 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:56 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:14:56 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:14:56 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:14:56 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:14:56 --> Final output sent to browser
+DEBUG - 2017-07-07 15:14:56 --> Total execution time: 0.2047
+INFO - 2017-07-07 15:14:57 --> Config Class Initialized
+INFO - 2017-07-07 15:14:57 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:14:57 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:14:57 --> URI Class Initialized
+INFO - 2017-07-07 15:14:57 --> Router Class Initialized
+INFO - 2017-07-07 15:14:57 --> Output Class Initialized
+INFO - 2017-07-07 15:14:57 --> Security Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:14:57 --> CSRF cookie sent
+INFO - 2017-07-07 15:14:57 --> Input Class Initialized
+INFO - 2017-07-07 15:14:57 --> Language Class Initialized
+INFO - 2017-07-07 15:14:57 --> Language Class Initialized
+INFO - 2017-07-07 15:14:57 --> Config Class Initialized
+INFO - 2017-07-07 15:14:57 --> Loader Class Initialized
+INFO - 2017-07-07 15:14:57 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:14:57 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:14:57 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:14:57 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:14:57 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:14:57 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:57 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:14:57 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:14:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:14:57 --> User Agent Class Initialized
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:14:57 --> Pagination Class Initialized
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:14:57 --> Model Class Initialized
+INFO - 2017-07-07 15:14:57 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:14:57 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:57 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:14:57 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:14:57 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:14:57 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:14:57 --> Final output sent to browser
+DEBUG - 2017-07-07 15:14:57 --> Total execution time: 0.2807
+INFO - 2017-07-07 15:14:58 --> Config Class Initialized
+INFO - 2017-07-07 15:14:58 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:14:58 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:14:58 --> URI Class Initialized
+INFO - 2017-07-07 15:14:58 --> Router Class Initialized
+INFO - 2017-07-07 15:14:58 --> Output Class Initialized
+INFO - 2017-07-07 15:14:58 --> Security Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:14:58 --> CSRF cookie sent
+INFO - 2017-07-07 15:14:58 --> Input Class Initialized
+INFO - 2017-07-07 15:14:58 --> Language Class Initialized
+INFO - 2017-07-07 15:14:58 --> Language Class Initialized
+INFO - 2017-07-07 15:14:58 --> Config Class Initialized
+INFO - 2017-07-07 15:14:58 --> Loader Class Initialized
+INFO - 2017-07-07 15:14:58 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:14:58 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:14:58 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:14:58 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:14:58 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:14:58 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:58 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:14:58 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:14:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:14:58 --> User Agent Class Initialized
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:14:58 --> Pagination Class Initialized
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:14:58 --> Model Class Initialized
+INFO - 2017-07-07 15:14:58 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:14:58 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:14:58 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:14:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:14:58 --> Final output sent to browser
+DEBUG - 2017-07-07 15:14:58 --> Total execution time: 0.2908
+INFO - 2017-07-07 15:15:03 --> Config Class Initialized
+INFO - 2017-07-07 15:15:03 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:15:03 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:15:03 --> URI Class Initialized
+INFO - 2017-07-07 15:15:03 --> Router Class Initialized
+INFO - 2017-07-07 15:15:03 --> Output Class Initialized
+INFO - 2017-07-07 15:15:03 --> Security Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:15:03 --> CSRF cookie sent
+INFO - 2017-07-07 15:15:03 --> CSRF token verified
+INFO - 2017-07-07 15:15:03 --> Input Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language Class Initialized
+INFO - 2017-07-07 15:15:03 --> Config Class Initialized
+INFO - 2017-07-07 15:15:03 --> Loader Class Initialized
+INFO - 2017-07-07 15:15:03 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:15:03 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:15:03 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:15:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:15:03 --> User Agent Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:15:03 --> Pagination Class Initialized
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+INFO - 2017-07-07 15:15:03 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:15:03 --> rerer
+DEBUG - 2017-07-07 15:15:03 --> -1
+DEBUG - 2017-07-07 15:15:03 --> 
+ERROR - 2017-07-07 15:15:03 --> Severity: Warning --> implode(): Invalid arguments passed C:\xampp\htdocs\amalian\Amalian\application\modules\users\models\Role.php 121
+DEBUG - 2017-07-07 15:15:03 --> 
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('config', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('user_reports', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('dashboards', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('profiles', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('users', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('roles', NULL)
+ERROR - 2017-07-07 15:15:03 --> Query error: Column 'role_id' cannot be null - Invalid query: INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES ('trashes', NULL)
+DEBUG - 2017-07-07 15:15:03 --> DB Transaction Failure
+INFO - 2017-07-07 15:15:03 --> Final output sent to browser
+DEBUG - 2017-07-07 15:15:03 --> Total execution time: 0.2184
+INFO - 2017-07-07 15:15:03 --> Config Class Initialized
+INFO - 2017-07-07 15:15:03 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:15:03 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:15:03 --> URI Class Initialized
+INFO - 2017-07-07 15:15:03 --> Router Class Initialized
+INFO - 2017-07-07 15:15:03 --> Output Class Initialized
+INFO - 2017-07-07 15:15:03 --> Security Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:15:03 --> CSRF cookie sent
+INFO - 2017-07-07 15:15:03 --> Input Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language Class Initialized
+INFO - 2017-07-07 15:15:03 --> Config Class Initialized
+INFO - 2017-07-07 15:15:03 --> Loader Class Initialized
+INFO - 2017-07-07 15:15:03 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:15:03 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:15:03 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:15:03 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:15:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:15:03 --> User Agent Class Initialized
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:15:03 --> Pagination Class Initialized
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:15:03 --> Model Class Initialized
+INFO - 2017-07-07 15:15:03 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:15:03 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:15:03 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:15:03 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:15:03 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:15:03 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:15:03 --> Final output sent to browser
+DEBUG - 2017-07-07 15:15:03 --> Total execution time: 0.1987
+INFO - 2017-07-07 15:23:58 --> Config Class Initialized
+INFO - 2017-07-07 15:23:58 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:23:58 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:23:58 --> URI Class Initialized
+INFO - 2017-07-07 15:23:58 --> Router Class Initialized
+INFO - 2017-07-07 15:23:58 --> Output Class Initialized
+INFO - 2017-07-07 15:23:58 --> Security Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:23:58 --> CSRF cookie sent
+INFO - 2017-07-07 15:23:58 --> Input Class Initialized
+INFO - 2017-07-07 15:23:58 --> Language Class Initialized
+INFO - 2017-07-07 15:23:58 --> Language Class Initialized
+INFO - 2017-07-07 15:23:58 --> Config Class Initialized
+INFO - 2017-07-07 15:23:58 --> Loader Class Initialized
+INFO - 2017-07-07 15:23:58 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:23:58 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:23:58 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:23:58 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:23:58 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:23:58 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:23:58 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:23:58 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:23:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:23:58 --> User Agent Class Initialized
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:23:58 --> Pagination Class Initialized
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:23:58 --> Model Class Initialized
+INFO - 2017-07-07 15:23:58 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:23:58 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:23:58 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:23:59 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:23:59 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:23:59 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:23:59 --> Final output sent to browser
+DEBUG - 2017-07-07 15:23:59 --> Total execution time: 0.2216
+INFO - 2017-07-07 15:24:00 --> Config Class Initialized
+INFO - 2017-07-07 15:24:00 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:00 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:00 --> URI Class Initialized
+INFO - 2017-07-07 15:24:00 --> Router Class Initialized
+INFO - 2017-07-07 15:24:00 --> Output Class Initialized
+INFO - 2017-07-07 15:24:00 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:00 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:00 --> Input Class Initialized
+INFO - 2017-07-07 15:24:00 --> Language Class Initialized
+INFO - 2017-07-07 15:24:00 --> Language Class Initialized
+INFO - 2017-07-07 15:24:00 --> Config Class Initialized
+INFO - 2017-07-07 15:24:00 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:00 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:00 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:00 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:00 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:00 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:00 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:00 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:00 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:00 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:00 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:00 --> Model Class Initialized
+INFO - 2017-07-07 15:24:00 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:00 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:00 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:24:00 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:24:00 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:24:00 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:24:00 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:00 --> Total execution time: 0.2880
+INFO - 2017-07-07 15:24:01 --> Config Class Initialized
+INFO - 2017-07-07 15:24:01 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:01 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:01 --> URI Class Initialized
+INFO - 2017-07-07 15:24:01 --> Router Class Initialized
+INFO - 2017-07-07 15:24:01 --> Output Class Initialized
+INFO - 2017-07-07 15:24:01 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:01 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:01 --> Input Class Initialized
+INFO - 2017-07-07 15:24:01 --> Language Class Initialized
+INFO - 2017-07-07 15:24:01 --> Language Class Initialized
+INFO - 2017-07-07 15:24:01 --> Config Class Initialized
+INFO - 2017-07-07 15:24:01 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:01 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:01 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:01 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:01 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:01 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:01 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:01 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:01 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:01 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:01 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:01 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:01 --> Model Class Initialized
+INFO - 2017-07-07 15:24:01 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:01 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:01 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/form_basic_info.php
+DEBUG - 2017-07-07 15:24:01 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles//new_role_form.php
+INFO - 2017-07-07 15:24:01 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:01 --> Total execution time: 0.1970
+INFO - 2017-07-07 15:24:06 --> Config Class Initialized
+INFO - 2017-07-07 15:24:06 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:06 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:06 --> URI Class Initialized
+INFO - 2017-07-07 15:24:06 --> Router Class Initialized
+INFO - 2017-07-07 15:24:06 --> Output Class Initialized
+INFO - 2017-07-07 15:24:06 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:06 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:06 --> CSRF token verified
+INFO - 2017-07-07 15:24:06 --> Input Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language Class Initialized
+INFO - 2017-07-07 15:24:06 --> Config Class Initialized
+INFO - 2017-07-07 15:24:06 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:06 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:06 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:06 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:06 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:06 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+INFO - 2017-07-07 15:24:06 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-07-07 15:24:06 --> test
+DEBUG - 2017-07-07 15:24:06 --> -1
+INFO - 2017-07-07 15:24:06 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:06 --> Total execution time: 0.2154
+INFO - 2017-07-07 15:24:06 --> Config Class Initialized
+INFO - 2017-07-07 15:24:06 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:06 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:06 --> URI Class Initialized
+INFO - 2017-07-07 15:24:06 --> Router Class Initialized
+INFO - 2017-07-07 15:24:06 --> Output Class Initialized
+INFO - 2017-07-07 15:24:06 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:06 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:06 --> Input Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language Class Initialized
+INFO - 2017-07-07 15:24:06 --> Config Class Initialized
+INFO - 2017-07-07 15:24:06 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:06 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:06 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:06 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:06 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:06 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:06 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:06 --> Model Class Initialized
+INFO - 2017-07-07 15:24:06 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:06 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:06 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:24:06 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:24:06 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:24:06 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:24:06 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:06 --> Total execution time: 0.1998
+INFO - 2017-07-07 15:24:08 --> Config Class Initialized
+INFO - 2017-07-07 15:24:08 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:08 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:08 --> URI Class Initialized
+INFO - 2017-07-07 15:24:08 --> Router Class Initialized
+INFO - 2017-07-07 15:24:08 --> Output Class Initialized
+INFO - 2017-07-07 15:24:08 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:08 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:08 --> Input Class Initialized
+INFO - 2017-07-07 15:24:08 --> Language Class Initialized
+INFO - 2017-07-07 15:24:08 --> Language Class Initialized
+INFO - 2017-07-07 15:24:08 --> Config Class Initialized
+INFO - 2017-07-07 15:24:08 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:08 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:08 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:08 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:08 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:08 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:08 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:08 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:08 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:08 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:08 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:08 --> Model Class Initialized
+INFO - 2017-07-07 15:24:08 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:08 --> Roles MX_Controller Initialized
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:08 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:24:08 --> Template MX_Controller Initialized
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/tableHeader.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/cropper.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header_bar.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/sidebar.php
+ERROR - 2017-07-07 15:24:08 --> Could not find the language line "common_confirm_search"
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/views/roles/manage.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/footer_links.php
+DEBUG - 2017-07-07 15:24:08 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/manage_tables_template.php
+INFO - 2017-07-07 15:24:08 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:08 --> Total execution time: 0.2874
+INFO - 2017-07-07 15:24:10 --> Config Class Initialized
+INFO - 2017-07-07 15:24:10 --> Hooks Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> UTF-8 Support Enabled
+INFO - 2017-07-07 15:24:10 --> Utf8 Class Initialized
+INFO - 2017-07-07 15:24:10 --> URI Class Initialized
+INFO - 2017-07-07 15:24:10 --> Router Class Initialized
+INFO - 2017-07-07 15:24:10 --> Output Class Initialized
+INFO - 2017-07-07 15:24:10 --> Security Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-07 15:24:10 --> CSRF cookie sent
+INFO - 2017-07-07 15:24:10 --> Input Class Initialized
+INFO - 2017-07-07 15:24:10 --> Language Class Initialized
+INFO - 2017-07-07 15:24:10 --> Language Class Initialized
+INFO - 2017-07-07 15:24:10 --> Config Class Initialized
+INFO - 2017-07-07 15:24:10 --> Loader Class Initialized
+INFO - 2017-07-07 15:24:10 --> Helper loaded: form_helper
+INFO - 2017-07-07 15:24:10 --> Helper loaded: url_helper
+INFO - 2017-07-07 15:24:10 --> Helper loaded: text_helper
+INFO - 2017-07-07 15:24:10 --> Helper loaded: html_helper
+INFO - 2017-07-07 15:24:10 --> Helper loaded: download_helper
+INFO - 2017-07-07 15:24:10 --> Helper loaded: table_helper
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:10 --> Database Driver Class Initialized
+INFO - 2017-07-07 15:24:10 --> Form Validation Class Initialized
+INFO - 2017-07-07 15:24:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-07 15:24:10 --> User Agent Class Initialized
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-07-07 15:24:10 --> Pagination Class Initialized
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Module.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/config/models/Appconfig.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Userinfo.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/dashboard/models/Dashboard.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/User.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Profile.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Trash.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/users/models/Role.php
+INFO - 2017-07-07 15:24:10 --> Model Class Initialized
+INFO - 2017-07-07 15:24:10 --> Controller Class Initialized
+DEBUG - 2017-07-07 15:24:10 --> Pagenotfound MX_Controller Initialized
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/common_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/config_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/error_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/login_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/module_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/main_module_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/reports_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/icon_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/profiles_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/dashboard_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/roles_lang.php
+INFO - 2017-07-07 15:24:10 --> Language file loaded: language/english/pagination_lang.php
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2017-07-07 15:24:10 --> Template MX_Controller Initialized
+ERROR - 2017-07-07 15:24:10 --> Could not find the language line "module_"
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/header.php
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/partial/alert_header.php
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/login/views/pagenotfound.php
+DEBUG - 2017-07-07 15:24:10 --> File loaded: C:\xampp\htdocs\amalian\Amalian\application\modules/template/views/login_template.php
+INFO - 2017-07-07 15:24:10 --> Final output sent to browser
+DEBUG - 2017-07-07 15:24:10 --> Total execution time: 0.2370
