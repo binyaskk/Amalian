@@ -241,7 +241,7 @@ function get_role_data_row($data_row,$controller)
 
   
 	$table_data_row.='<td width="10%">'.anchor($controller_path."/edit_profile_image/$data_row->user_id/width:$width", $CI->lang->line('icon_image'),array('class'=>'thickbox','title'=>$CI->lang->line('common_edit'))).'</td>';	*/	
-	$table_data_row.='<td width="10%">'.anchor($controller_path."/view/$data_row->user_id/width:$width", $CI->lang->line('icon_edit'),array('class'=>'thickbox','title'=>$CI->lang->line('common_edit'))).'</td>';		
+	$table_data_row.='<td width="10%">'.anchor($controller_path."/view/$data_row->role_id/width:$width", $CI->lang->line('icon_edit'),array('class'=>'thickbox','title'=>$CI->lang->line('common_edit'))).'</td>';		
 	/*$table_data_row.='<td width="15%">'.anchor($controller_path."/change_password/$data_row->user_id/width:360", $CI->lang->line('icon_lock'),array('class'=>'thickbox','title'=>$CI->lang->line('profiles_edit_password'))).'</td>';		
 	$table_data_row.='</tr>';*/
 	

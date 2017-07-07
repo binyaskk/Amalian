@@ -65,7 +65,8 @@ class Roles extends Secure_area implements iData_controller
 	public function view($role_id=-1)
 	{
 		// get all user details by user id
-	    $data['role_info']=$this->Role->get_info($role_id);
+        //log_message('debug',"roleid=".$role_id);
+	    $data['role']=$this->Role->get_info($role_id);
 		
 		$data['all_modules']=$this->Module->get_editable_modules();
 

@@ -70,9 +70,9 @@ class Role  extends CI_Model
 	public function get_info($role_id)
 	{
 		$this->db->from('roles');	
-		$this->db->where('roles.role_id',$roles_id);
+		$this->db->where('roles.role_id',$role_id);
 		$query = $this->db->get();
-		
+		//log_message('debug','id='.$role_id .',qury='.$query->num_rows());
 		if ($query->num_rows()==1) {
 			return $query->row();
 		}
@@ -107,12 +107,12 @@ class Role  extends CI_Model
 	public function save(&$role_data, &$rolelog_data,&$permission_data,$role_id=false)
 	{
 		$success=false;
-        log_message('debug', implode("|",$role_data));
+        //log_message('debug', implode("|",$role_data));
 		//Run these queries as a transaction, we want to make sure we do all or nothing
 		$this->db->trans_start();	
 		
 			if (!empty($role_data)) {
-				log_message('debug', $role_id);
+				//log_message('debug', $role_id);
 				if (!$role_id or !$this->exists($role_id)) {
                     
                     if ($this->db->insert('roles',$role_data)) {
@@ -242,6 +242,27 @@ class Role  extends CI_Model
 		return $this->db->get();		
 	}
 	
-	
+	/*
+	Determins whether the user specified has access the specific module.
+	*/
+	public function has_permission($module_id,$role_id)
+	{
+		//if no module_id is null, allow access
+		if($module_id==null) {
+			return true;
+		}
+		
+        
+		//$query = $this->db->get_where('permissions', array('user_id' => $user_id,'module_id'=>$module_id), 1);
+        
+        $this->db->from('role_permissions');
+        $this->db->where('role_id',$role_id);
+        $this->db->where('module_id',$module_id);
+        $query = $this->db->get();
+
+        
+		return $query->num_rows() == 1;
+		return false;
+	}
 
 }
