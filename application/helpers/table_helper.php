@@ -69,12 +69,15 @@ function get_people_data_row($data_row,$controller)
 	$table_data_row.='<td width="15%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->last_name)),10).'</td>';
 	$table_data_row.='<td width="15%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->username)),10).'</td>';
 	$table_data_row.='<td width="20%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->phone_number)),22).'</td>';
-	$table_data_row.='<td width="10%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->country_name)),13).'</td>';		
-	if($data_row->user_level==1)
+	$table_data_row.='<td width="10%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->country_name)),13).'</td>';	
+    
+    $table_data_row.='<td width="15%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->role_name)),22).'</td>';
+    
+	/*if($data_row->user_level==1)
 	$table_data_row.='<td width="15%">'.$CI->lang->line('profiles_user_level_admin').'</td>';	
     else 
 	$table_data_row.='<td width="10%">'.$CI->lang->line('profiles_user_level_user').'</td>';	
- 
+ */
     if($data_row->active==0)
 	$table_data_row.='<td width="15%"><span class="label label-success">'.$CI->lang->line('profiles_active').'</span></td>';	
     else
@@ -148,12 +151,15 @@ function get_people_report_data_row($data_row,$controller)
 	$table_data_row.='<td width="20%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->last_name)),13).'</td>';
 	$table_data_row.='<td width="15%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->username)),10).'</td>';
 	$table_data_row.='<td width="20%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->phone_number)),22).'</td>';
-	$table_data_row.='<td width="10%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->country_name)),13).'</td>';		
+	$table_data_row.='<td width="10%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->country_name)),13).'</td>';
+    
+    $table_data_row.='<td width="15%">'.character_limiter(html_escape($CI->security->xss_clean($data_row->role_name)),22).'</td>';
+    /*
 	if($data_row->user_level==1)
 	$table_data_row.='<td width="15%">'.$CI->lang->line('profiles_user_level_admin').'</td>';	
     else 
 	$table_data_row.='<td width="10%">'.$CI->lang->line('profiles_user_level_user').'</td>';	
-
+*/
 	$table_data_row.='<td width="5%">'.anchor($controller_path."/view/$data_row->user_id/width:$width", $CI->lang->line('icon_user_view'),array('class'=>'thickbox','title'=>$CI->lang->line('common_view'))).'</td>';		
 	$table_data_row.='</tr>';
 	

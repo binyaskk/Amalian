@@ -217,8 +217,8 @@ class Role  extends CI_Model
 		
 		$this->db->select('role_name');
 		$this->db->from('roles');		
-		$this->db->where("(	role_name LIKE '%".$this->db->escape_like_str($search)."%'
-	    )");		
+		$this->db->where("role_name LIKE '%".$this->db->escape_like_str($search)."%'
+	    ");		
 		$this->db->order_by("role_name", "asc");
 		
 		$by_name = $this->db->get();
@@ -237,7 +237,7 @@ class Role  extends CI_Model
 	public function search($search)
 	{	
 	    $this->db->from('roles');	
-		$this->db->where("(	role_name LIKE '%".$this->db->escape_like_str($search)."%'");		
+		$this->db->where("role_name LIKE '%".$this->db->escape_like_str($search)."%'");		
 		$this->db->order_by("role_name", "asc");
 		return $this->db->get();		
 	}
