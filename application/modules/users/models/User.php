@@ -31,7 +31,7 @@ class User  extends Userinfo
 		$this->db->limit($limit);
 		$this->db->offset($offset);
         $query =$this->db->get();
-        log_message("debug",$this->db->last_query());
+        //log_message("debug",$this->db->last_query());
 		return $query;
 		
 	}
@@ -328,7 +328,7 @@ class User  extends Userinfo
 			
             if($success){
                 $permission_data['user_id']=$user_id;
-                log_message("debug",$permission_data["role_id"]);
+                //log_message("debug",$permission_data["role_id"]);
                 $this->db->from('user_roles');	
 		          $this->db->where('user_roles.user_id',$user_id);
                 $query = $this->db->get();
@@ -336,6 +336,7 @@ class User  extends Userinfo
 		      if ($query->num_rows()==0){
                   $success = $this->db->insert('user_roles',$permission_data);
               }else{
+                  $this->db->where('user_id', $user_id);
                   $success = $this->db->update('user_roles',$permission_data);
               }
             }

@@ -14,7 +14,7 @@ function get_people_manage_table($people,$controller)
 	$CI->lang->line('login_username'),
 	$CI->lang->line('profiles_phone'),
 	$CI->lang->line('profiles_country'),
-	$CI->lang->line('profiles_user_level'),
+	$CI->lang->line('profiles_role'),
 	$CI->lang->line('profiles_status'),
 	$CI->lang->line('profiles_avatar'),
 	$CI->lang->line('common_edit'),
@@ -106,7 +106,7 @@ function get_people_manage_report_table($people,$controller)
 	$CI->lang->line('login_username'),
 	$CI->lang->line('profiles_phone'),
 	$CI->lang->line('profiles_country'),
-	$CI->lang->line('profiles_user_level'),
+	$CI->lang->line('profiles_role'),
 	$CI->lang->line('common_view')
 	);
 	
