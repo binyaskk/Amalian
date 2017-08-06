@@ -23,11 +23,16 @@ class User  extends Userinfo
 	{
 		$this->db->from('users');
 		$this->db->where('users.deleted',0);		
-		$this->db->join('userinfo','users.user_id=userinfo.user_id');			
+		$this->db->join('userinfo','users.user_id=userinfo.user_id');
+        
+        $this->db->join('user_roles','users.user_id=user_roles.user_id');
+        $this->db->join('roles','user_roles.role_id=roles.role_id');
 		$this->db->order_by("first_name", "asc");
 		$this->db->limit($limit);
 		$this->db->offset($offset);
-		return $this->db->get();
+        $query =$this->db->get();
+        //log_message("debug",$this->db->last_query());
+		return $query;
 		
 	}
 	
@@ -251,6 +256,8 @@ class User  extends Userinfo
 	{
 		$this->db->from('users');	
 		$this->db->join('userinfo', 'userinfo.user_id = users.user_id');
+        $this->db->join('user_roles','users.user_id=user_roles.user_id');
+        $this->db->join('roles','user_roles.role_id=roles.role_id');
 		$this->db->where('users.user_id',$users_id);
 		$query = $this->db->get();
 		
@@ -319,13 +326,29 @@ class User  extends Userinfo
 			}
 			
 			
+            if($success){
+                $permission_data['user_id']=$user_id;
+                //log_message("debug",$permission_data["role_id"]);
+                $this->db->from('user_roles');	
+		          $this->db->where('user_roles.user_id',$user_id);
+                $query = $this->db->get();
+		
+		      if ($query->num_rows()==0){
+                  $success = $this->db->insert('user_roles',$permission_data);
+              }else{
+                  $this->db->where('user_id', $user_id);
+                  $success = $this->db->update('user_roles',$permission_data);
+              }
+            }
+            
 			//We have either inserted or updated a new user, now lets set permissions. 
-			if ($success) {
+			/*if ($success) {
 				//First lets clear out any permissions the user currently has.
 				$success=$this->db->delete('permissions', array('user_id' => $user_id));
 				
 				//Now insert the new permissions
 				if ($success) {
+                    
 					foreach ($permission_data as $allowed_module) {
 						$success = $this->db->insert('permissions',
 						array(
@@ -333,7 +356,7 @@ class User  extends Userinfo
 						'user_id'=>$user_id));
 					}
 				}
-			}
+			}*/
 			
 		}
 		$this->db->trans_complete();		
@@ -646,10 +669,18 @@ class User  extends Userinfo
 			return true;
 		}
 		
-		$query = $this->db->get_where('permissions', array('user_id' => $user_id,'module_id'=>$module_id), 1);
+        
+		//$query = $this->db->get_where('permissions', array('user_id' => $user_id,'module_id'=>$module_id), 1);
+        
+        $this->db->from('user_roles');
+        $this->db->join('role_permissions','user_roles.role_id=role_permissions.role_id');
+        $this->db->where('user_id',$user_id);
+        $this->db->where('module_id',$module_id);
+        $query = $this->db->get();
+
+        
 		return $query->num_rows() == 1;
 		return false;
 	}
 
 }
-

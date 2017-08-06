@@ -302,11 +302,15 @@ class Trash extends CI_Model
 		if($module_id==null) {
 			return true;
 		}
-		
-		$query = $this->db->get_where('permissions', array('user_id' => $user_id,'module_id'=>$module_id), 1);
+		$this->db->from('user_roles');
+        $this->db->join('role_permissions','user_roles.role_id=role_permissions.role_id');
+        $this->db->where('user_id',$user_id);
+        $this->db->where('module_id',$module_id);
+        $query = $this->db->get();
+
+		//$query = $this->db->get_where('permissions', array('user_id' => $user_id,'module_id'=>$module_id), 1);
 		return $query->num_rows() == 1;
 		return false;
 	}
 
 }
-

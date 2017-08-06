@@ -24,3 +24,5 @@ $lang['module_user_reports_desc']='View Users';
 $lang['module_trashes']='Trash ';
 $lang['module_trashes_desc']='View Deleted Users';
 
+$lang['module_roles']='Role ';
+$lang['module_roles_desc']='Add, Update and Delete Roles';

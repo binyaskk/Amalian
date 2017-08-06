@@ -10,6 +10,26 @@
 <fieldset id="user_basic_info">
    <legend><?php echo $this->lang->line("profiles_basic_information"); ?></legend>
    <?php $this->load->view("users/users/form_basic_info"); ?>
+     <div class="field_row clearfix">
+                    <?php echo form_label($this->lang->line('profiles_role').':', 'Role'); ?>
+                        <div class='form_field'>
+                            <?php 
+                        $attr=array('id'=>'role_list');
+						 $query =$this->Role->get_all();
+						
+						 foreach($query->result_array() as $row)
+                         {
+                             
+                            $role_data[$row['role_id']]=$row['role_name'];
+                         }
+				
+                        echo form_dropdown('role',$role_data, $user_info->role_id, $attr);
+                                 ?>
+
+                                <input type="hidden" name="role_name" value="<?php echo $user_info->role_name; ?>" id="role_name" />
+                                <!-- to get role name -->
+                        </div>
+                </div>
 </fieldset>
 
 <fieldset id="employee_permission_info">
@@ -24,9 +44,8 @@ if($image_name!="")
 else
 echo $upload_path."/".$default_image_name;?>?<?php echo time(); //to prevent browser image caching ?>" alt="avatar" height="150" >
 </div>
- 
- 
-   
+
+   <!--
    <legend class="profile-permission-header"><?php echo $this->lang->line("profiles_permission_info"); ?></legend>
    <p><?php echo $this->lang->line("profiles_permission_desc"); ?></p>
 
@@ -55,7 +74,7 @@ echo $upload_path."/".$default_image_name;?>?<?php echo time(); //to prevent bro
       <?php
          }
          ?>
-   </ul>
+   </ul>-->
    <?php
       echo form_submit(array(
       	'name'=>'submit',
@@ -86,6 +105,10 @@ echo $upload_path."/".$default_image_name;?>?<?php echo time(); //to prevent bro
          var country_name = $("#country_list option:selected").text();
          $("#country_name").val(country_name);
      });
+     $("#role_list").on("change", function(event) {
+                        var role_name = $("#role_list option:selected").text();
+                        $("#role_name").val(role_name);
+                    });
      $('#employee_form').validate({
          submitHandler: function(form) {
              document.getElementById("submit").value = "Loading";

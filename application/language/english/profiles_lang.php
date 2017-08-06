@@ -55,7 +55,7 @@ $lang['profiles_login_info']='User Login Info';
 $lang['profiles_edit_password']='Authentication';
 $lang['profiles_edit_password_short']='Auth';
 $lang['profiles_permission_info']='User Permissions and Access';
-$lang['profiles_permission_desc']='Check the boxes below to grant access to modules';
+$lang['profiles_permission_desc']='Select the role to grant access to modules';
 $lang['profiles_error_updating_demo_admin'] = 'You can not change the demo admin user';
 $lang['profiles_error_deleting_demo_admin'] = 'You can not delete the demo admin user';
 $lang['profiles_no_employee_to_display'] = 'No User to display';
@@ -92,3 +92,4 @@ $lang['profiles_edit_avatar'] = 'Change photo';
 $lang['profiles_avatar_not_writable'] = '<span class=\'error\'>Upload directory is not writable</span>';
 $lang['profiles_avatar_updated'] = 'Successfully updated';
 
+$lang['profiles_role'] = 'Role';

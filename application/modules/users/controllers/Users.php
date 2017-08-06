@@ -169,7 +169,8 @@ class Users extends Secure_area implements iData_controller
 		$data=$this->get_registration_date($data,$cmonth,$cday,$cyear);
 		
 		$data['all_modules']=$this->Module->get_editable_modules();
-
+        
+        $data['all_roles']=$this->Role->get_all();
 		
 		if ($user_id==-1) {//new user
 		    $this->load->view("users/users//new_user_form",$data);
@@ -316,7 +317,12 @@ class Users extends Secure_area implements iData_controller
 			}
 			
 		   
-		    $permission_data = $this->input->post("permissions")!=false ? $this->input->post("permissions"):array();
+		    /*$permission_data = $this->input->post("permissions")!=false ? $this->input->post("permissions"):array();*/
+
+            if ($this->input->post('role')!='') {
+                $permission_data["role_id"]=$this->input->post("role");
+                $permission_data["user_id"]=$user_id;
+            }
 		    if ($this->input->post('password')!='') {
 			    $userlog_data=array(
 			    'username'=>$this->input->post('username'),
