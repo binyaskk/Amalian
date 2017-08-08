@@ -418,6 +418,7 @@ INSERT INTO `eum_modules` (`name_lang_key`, `desc_lang_key`, `sort`, `module_id`
 ('module_profiles', 'module_profiles_desc', 20, 'profiles', 1, 0),
 ('module_trashes', 'module_trashes_desc', 30, 'trashes', 1, 0),
 ('module_users', 'module_users_desc', 20, 'users', 1, 0),
+('module_roles', 'module_roles_desc', 20, 'roles', 1, 0),
 ('module_user_reports', 'module_user_reports_desc', 10, 'user_reports', 3, 0);
 
 -- --------------------------------------------------------
@@ -443,6 +444,7 @@ INSERT INTO `eum_permissions` (`module_id`, `user_id`) VALUES
 ('profiles', 1),
 ('trashes', 1),
 ('users', 1),
+('roles', 1),
 ('user_reports', 1);
 
 -- --------------------------------------------------------
