@@ -538,6 +538,7 @@ INSERT INTO `eum_role_permissions` (`module_id`, `role_id`) VALUES
 ('profiles', 1),
 ('trashes', 1),
 ('users', 1),
+('roles', 1),
 ('user_reports', 1);
  
  
